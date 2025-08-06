@@ -1,0 +1,90 @@
+"#",Produkt-Kat.,NPr-Code (optional),NPr-Vereinbarung (optional),Tierstamm,Produktstamm,kg Nges/m3,kg Nges/t,kg Nverf/m3,kg Nverf/t,kg P2O5/m3,kg P2O5/t
+1,Recyclingdünger,,,,Gemüserüstabfälle,-,-,0.60,0.21,0.30,0.11
+2,Recyclingdünger,,,,Festes Gärgut,-,-,-,-,-,-
+3,Recyclingdünger,,,,Flüssiges Gärgut,-,-,-,-,-,-
+4,Recyclingdünger,,,,Gärgut,-,-,-,-,-,-
+5,Recyclingdünger,,,,Kompost,-,-,-,-,-,-
+6,Recyclingdünger,,,,Nährstoffkonzentrat,-,-,-,-,-,-
+7,Hofdünger,nPrJungImpx,Junghennen; Import-Export-Bilanz,Hennen/Junghennen (Kotband),Mist,-,-,-,-,-,-
+8,Hofdünger,nPrJungImpx,Junghennen; Import-Export-Bilanz,Hennen/Junghennen (Kotgrube; Bodenhaltung),Mist,-,-,-,-,-,-
+9,Hofdünger,nPrKanImpx,Kaninchen; Import-Export-Bilanz,Kaninchen NPr,Mist betriebsspezifisch (gem. Berechnung),-,-,-,-,-,-
+10,Hofdünger,nPrLegLin,Legehennen; lineare Korrektur,Legehennen (Kotband),Mist,-,-,-,-,-,-
+11,Hofdünger,nPrLegLin,Legehennen; lineare Korrektur,Legehennen (Kotgrube Bodenhaltung),Mist,-,-,-,-,-,-
+12,Hofdünger,nPrPoulImpx,Poulet; bilan Import-Export-Bilanz,Poulets,Mist,-,-,-,-,-,-
+13,Hofdünger,nPrSchMImpx,Schweine Mast; Import-Export-Bilanz,Rindvieh/Schweine gemischt,Mist betriebsspezifisch (gem. Berechnung),-,-,-,-,-,-
+14,Hofdünger,nPrSchMImpx,Schweine Mast; Import-Export-Bilanz,Rindvieh/Schweine gemischt,Gülle betriebsspezifisch (gem. Berechnung),-,-,-,-,-,-
+15,Hofdünger,nPrSchMImpx,Schweine Mast; Import-Export-Bilanz,Schweine Mast,Gülle Verdünnung 1:0.5,-,-,-,-,-,-
+16,Hofdünger,nPrSchMImpx,Schweine Mast; Import-Export-Bilanz,Schweine Mast,Gülle Verdünnung 1:1,-,-,-,-,-,-
+17,Hofdünger,nPrSchMImpx,Schweine Mast; Import-Export-Bilanz,Schweine Mast,Mist,-,-,-,-,-,-
+18,Hofdünger,nPrSchMImpx,Schweine Mast; Import-Export-Bilanz,Schweine Mast,Gülle betriebsspezifisch (gem. Berechnung),-,-,-,-,-,-
+19,Hofdünger,nPrSchMImpx,Schweine Mast; Import-Export-Bilanz,Schweine Zucht/Mast,Gülle betriebsspezifisch (gem. Berechnung),-,-,-,-,-,-
+20,Hofdünger,nPrSchMImpx,Schweine Mast; Import-Export-Bilanz,Schweine Ziegenucht/Mast,Mist betriebsspezifisch (gem. Berechnung),-,-,-,-,-,-
+21,Hofdünger,nPrSchMLin,Schweine Mast; lineare Korrektur,Rindvieh/Schweine gemischt,Mist betriebsspezifisch (gem. Berechnung),-,-,-,-,-,-
+22,Hofdünger,nPrSchMLin,Schweine Mast; lineare Korrektur,Rindvieh/Schweine gemischt,Gülle betriebsspezifisch (gem. Berechnung),-,-,-,-,-,-
+23,Hofdünger,nPrSchMLin,Schweine Mast; lineare Korrektur,Schweine Mast,Gülle Verdünnung 1:0.5,-,-,-,-,-,-
+24,Hofdünger,nPrSchMLin,Schweine Mast; lineare Korrektur,Schweine Mast,Gülle Verdünnung 1:1,-,-,-,-,-,-
+25,Hofdünger,nPrSchMLin,Schweine Mast; lineare Korrektur,Schweine Mast,Gülle Mist,-,-,-,-,-,-
+26,Hofdünger,nPrSchMLin,Schweine Mast; lineare Korrektur,Schweine Mast,Gülle betriebsspezifisch (gem. Berechnung),-,-,-,-,-,-
+27,Hofdünger,nPrSchMLin,Schweine Mast; lineare Korrektur,Schweine Zucht/Mast,Gülle betriebsspezifisch (gem. Berechnung),-,-,-,-,-,-
+28,Hofdünger,nPrSchMLin,Schweine Mast; lineare Korrektur,Schweine Zucht/Mast,Mist betriebsspezifisch (gem. Berechnung),-,-,-,-,-,-
+29,Hofdünger,nPrSchZImpx,Schweine Zucht; Import-Export-Bilanz,Rindvieh/Schweine gemischt,Mist betriebsspezifisch (gem. Berechnung),-,-,-,-,-,-
+30,Hofdünger,nPrSchZImpx,Schweine Zucht; Import-Export-Bilanz,Rindvieh/Schweine gemischt,Gülle betriebsspezifisch (gem. Berechnung),-,-,-,-,-,-
+31,Hofdünger,nPrSchZImpx,Schweine Zucht; Import-Export-Bilanz,Schweine Zucht,Gülle Verdünnung 1:0.5,-,-,-,-,-,-
+32,Hofdünger,nPrSchZImpx,Schweine Zucht; Import-Export-Bilanz,Schweine Zucht,Gülle Verdünnung 1:1,-,-,-,-,-,-
+33,Hofdünger,nPrSchZImpx,Schweine Zucht; Import-Export-Bilanz,Schweine Zucht,Mist,-,-,-,-,-,-
+34,Hofdünger,nPrSchZImpx,Schweine Zucht; Import-Export-Bilanz,Schweine Zucht,Gülle betriebsspezifisch (gem. Berechnung),-,-,-,-,-,-
+35,Hofdünger,nPrSchZImpx,Schweine Zucht; Import-Export-Bilanz,Schweine Zucht/Mast,Gülle betriebsspezifisch (gem. Berechnung),-,-,-,-,-,-
+36,Hofdünger,nPrSchZImpx,Schweine Zucht; Import-Export-Bilanz,Schweine Zucht/Mast,Mist betriebsspezifisch (gem. Berechnung),-,-,-,-,-,-
+37,Hofdünger,nPrSchZLin,Schweine Zucht; lineare Korrektur, Rindvieh/Schweine gemischt,Mist betriebsspezifisch (gem. Berechnung),-,-,-,-,-,-
+38,Hofdünger,nPrSchZLin,Schweine Zucht; lineare Korrektur, Rindvieh/Schweine gemischt,Gülle betriebsspezifisch (gem. Berechnung),-,-,-,-,-,-
+39,Hofdünger,nPrSchZLin,Schweine Zucht; lineare Korrektur, Schweine Zucht,Gülle Verdünnung 1:0.5,-,-,-,-,-,-
+40,Hofdünger,nPrSchZLin,Schweine Zucht; lineare Korrektur, Schweine Zucht,Gülle Verdünnung 1:1,-,-,-,-,-,-
+41,Hofdünger,nPrSchZLin,Schweine Zucht; lineare Korrektur, Schweine Zucht,Mist,-,-,-,-,-,-
+42,Hofdünger,nPrSchZLin,Schweine Zucht; lineare Korrektur, Schweine Zucht,Gülle betriebsspezifisch (gem. Berechnung),-,-,-,-,-,-
+43,Hofdünger,nPrSchZLin,Schweine Zucht; lineare Korrektur,Schweine Zucht/Mast,Gülle betriebsspezifisch (gem. Berechnung),-,-,-,-,-,-
+44,Hofdünger,nPrSchZLin,Schweine Zucht; lineare Korrektur,Schweine Zucht/Mast,Mist betriebsspezifisch (gem. Berechnung),-,-,-,-,-,-
+45,Hofdünger,nPrTrutImpx,Truten; Import-Export-Bilanz,Truten,Mist,-,-,-,-,-,-
+46,Hofdünger,,,Andere Hofdünger,Ernterückstände von Gemüsekulturen,-,3.30,-,-,-,0.90
+47,Hofdünger,,,Andere Hofdünger,Unvergärter Separatorenmist,-,-,-,-,-,-
+48,Hofdünger,,,Andere Hofdünger,Unvergärter Separatorengülle,-,-,-,-,-,-
+49,Hofdünger,,,Andere Hofdünger,Mistkompost;betriebsspezifisch (gem. Berechnung),-,-,-,-,-,-
+50,Hofdünger,,,Andere Hofdünger,Gärdünngülle,-,-,-,-,-,-
+51,Hofdünger,,,Andere Hofdünger,Gärgülle,-,-,-,-,-,-
+52,Hofdünger,,,Andere Hofdünger,Gärmist,-,-,-,-,-,-
+53,Hofdünger,,,Andere Hofdünger,Mist verflüssigt,-,-,-,-,-,-
+54,Hofdünger,,,Andere Hofdünger,Mischgülle,-,-,-,-,-,-
+55,Hofdünger,,,Andere Hofdünger,Mistmischung,-,-,-,-,-,-
+56,Hofdünger,,,Fische,Gülle betriebsspezifisch (gem. Berechnung),-,-,-,-,-,-
+57,Hofdünger,,,Hennen/Junghennen (Kotband),Mist,10.50,21.00,-,-,8.50,17.00
+58,Hofdünger,,,Hennen/Junghennen (Kotgrube; Bodenhaltung),Mist,13.00,26.00,-,-,15.00,30.00
+59,Hofdünger,,,Kälber,Mist,3.00,5.00,-,-,1.50,2.50
+60,Hofdünger,,,Kaninchen,Mist,6.20,8.90,-,-,4.80,6.90
+61,Hofdünger,,,Legehennen (Kotband),Mist,16.80,21.00,-,-,13.60,17.00
+62,Hofdünger,,,Legehennen (Kotgrube; Bodenhaltung),Mist,13.50,27.00,-,-,15.00,30.00
+63,Hofdünger,,,Pferde,Mist frisch,1.76,4.40,-,-,1.00,2.50
+64,Hofdünger,,,Pferde,Mist verrottet,1.76,4.40,-,-,1.00,2.50
+65,Hofdünger,,,Poulets,Mist,19.20,32.00,-,-,10.20,17.00
+66,Hofdünger,,,Rindvieh Rindermast,Gülle Verdünnung 1:0.5,2.67,2.67,-,-,0.87,0.87
+67,Hofdünger,,,Rindvieh Rindermast,Gülle Verdünnung 1:1,2.00,2.00,-,-,0.65,0.65
+68,Hofdünger,,,Rindvieh Rindermast,Mist,3.08,4.10,-,-,0.98,1.30
+69,Hofdünger,,,Rindvieh Rindermast,Gülle betriebsspezifisch (gem. Berechnung),-,-,-,-,-,-
+70,Hofdünger,,,Rindvieh/Schweine gemischt,Mist,-,-,-,-,-,-
+71,Hofdünger,,,Rindvieh/Schweine gemischt,Gülle betriebsspezifisch (gem. Berechnung),-,-,-,-,-,-
+72,Hofdünger,,,Rindvieh Milch- und Mutterkühe/Aufzucht,Gülle Verdünnung 1:0.5,2.60,2.60,-,-,1.13,1.13
+73,Hofdünger,,,Rindvieh Milch- und Mutterkühe/Aufzucht,Gülle Verdünnung 1:1,1.95,1.95,-,-,0.85,0.85
+74,Hofdünger,,,Rindvieh Milch- und Mutterkühe/Aufzucht,Laufstallmist,3.68,4.90,-,-,1.65,2.2013
+75,Hofdünger,,,Rindvieh Milch- und Mutterkühe/Aufzucht,Stapelmist,3.38,4.50,-,-,2.25,3.00
+76,Hofdünger,,,Rindvieh Milch- und Mutterkühe/Aufzucht,Gülle betriebsspezifisch (gem. Berechnung),-,-,-,-,-,-
+77,Hofdünger,,,Schafe,Mist,4.10,8.20,-,-,1.85,3.70
+78,Hofdünger,,,Schweine Mast,Mist,6.61,8.80,-,-,4.62,6.60
+79,Hofdünger,,,Schweine Mast,Gülle Verdünnung 1:0.5,4.33,4.33,-,-,2.13,2.13
+80,Hofdünger,,,Schweine Mast,Gülle Verdünnung 1:1,3.25,3.25,-,-,1.60,1.60
+81,Hofdünger,,,Schweine Mast,Gülle betriebsspezifisch (gem. Berechnung),-,-,-,-,-,-
+82,Hofdünger,,,Schweine Zucht,Gülle Verdünnung 1:0.5,3.10,3.10,-,-,1.80,1.80
+83,Hofdünger,,,Schweine Zucht,Gülle Verdünnung 1:1,2.40,2.40,-,-,1.40,1.40
+84,Hofdünger,,,Schweine Zucht,Mist,6.61,8.80,-,-,4.62,6.60
+85,Hofdünger,,,Schweine Zucht,Gülle betriebsspezifisch (gem. Berechnung),-,-,-,-,-,-
+86,Hofdünger,,,Schweine Zucht/Mast,Gülle betriebsspezifisch (gem. Berechnung),-,-,-,-,-,-
+87,Hofdünger,,,Schweine Zucht/Mast,Mist betriebsspezifisch (gem. Berechnung),-,-,-,-,-,-
+88,Hofdünger,,,Truten,Mist,14.00,28.00,-,-,11.50,23.00
+89,Hofdünger,,,Ziegen,Mist,4.10,8.20,-,-,1.85,3.70

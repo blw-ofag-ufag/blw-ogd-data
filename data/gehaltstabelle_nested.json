@@ -1,0 +1,1549 @@
+{
+  "metadata": {
+    "title": "Gehaltstabelle HODUFLU",
+    "valid_from": "2024-01-01",
+    "issuer": "Bundesamt für Landwirtschaft",
+    "json_version": "1.0"
+  },
+  "data": [
+    {
+      "Produkt-Kat": [
+        {
+          "name": "Recyclingdünger",
+          "Produktstamm": [
+            {
+              "name": "Gemüserüstabfälle",
+              "values": [
+                {
+                  "kg_Nges_m3": null,
+                  "kg_Nges_t": null,
+                  "kg_Nverf_m3": 0.6,
+                  "kg_Nverf_t": 0.21,
+                  "kg_P2O5_m3": 0.3,
+                  "kg_P2O5_t": 0.11
+                }
+              ]
+            },
+            {
+              "name": "Festes Gärgut",
+              "values": [
+                {
+                  "kg_Nges_m3": null,
+                  "kg_Nges_t": null,
+                  "kg_Nverf_m3": null,
+                  "kg_Nverf_t": null,
+                  "kg_P2O5_m3": null,
+                  "kg_P2O5_t": null
+                }
+              ]
+            },
+            {
+              "name": "Flüssiges Gärgut",
+              "values": [
+                {
+                  "kg_Nges_m3": null,
+                  "kg_Nges_t": null,
+                  "kg_Nverf_m3": null,
+                  "kg_Nverf_t": null,
+                  "kg_P2O5_m3": null,
+                  "kg_P2O5_t": null
+                }
+              ]
+            },
+            {
+              "name": "Gärgut",
+              "values": [
+                {
+                  "kg_Nges_m3": null,
+                  "kg_Nges_t": null,
+                  "kg_Nverf_m3": null,
+                  "kg_Nverf_t": null,
+                  "kg_P2O5_m3": null,
+                  "kg_P2O5_t": null
+                }
+              ]
+            },
+            {
+              "name": "Kompost",
+              "values": [
+                {
+                  "kg_Nges_m3": null,
+                  "kg_Nges_t": null,
+                  "kg_Nverf_m3": null,
+                  "kg_Nverf_t": null,
+                  "kg_P2O5_m3": null,
+                  "kg_P2O5_t": null
+                }
+              ]
+            },
+            {
+              "name": "Nährstoffkonzentrat",
+              "values": [
+                {
+                  "kg_Nges_m3": null,
+                  "kg_Nges_t": null,
+                  "kg_Nverf_m3": null,
+                  "kg_Nverf_t": null,
+                  "kg_P2O5_m3": null,
+                  "kg_P2O5_t": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Produkt-Kat": [
+        {
+          "name": "Hofdünger",
+          "Produktstamm": [
+            {
+              "name": "Mist",
+              "NPr": [
+                {
+                  "NPr-Code (optional)": "nPrJungImpx",
+                  "NPr-Vereinbarung (optional)": "Junghennen; Import-Export-Bilanz",
+                  "Tierstamm": [
+                    {
+                      "name": "Hennen/Junghennen (Kotband)",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Hennen/Junghennen (Kotgrube; Bodenhaltung)",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "NPr-Code (optional)": "nPrLegLin",
+                  "NPr-Vereinbarung (optional)": "Legehennen; lineare Korrektur",
+                  "Tierstamm": [
+                    {
+                      "name": "Legehennen (Kotband)",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Legehennen (Kotgrube Bodenhaltung)",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "NPr-Code (optional)": "nPrPoulImpx",
+                  "NPr-Vereinbarung (optional)": "Poulet; bilan Import-Export-Bilanz",
+                  "Tierstamm": [
+                    {
+                      "name": "Poulets",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "NPr-Code (optional)": "nPrSchMImpx",
+                  "NPr-Vereinbarung (optional)": "Schweine Mast; Import-Export-Bilanz",
+                  "Tierstamm": [
+                    {
+                      "name": "Schweine Mast",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "NPr-Code (optional)": "nPrSchZImpx",
+                  "NPr-Vereinbarung (optional)": "Schweine Zucht; Import-Export-Bilanz",
+                  "Tierstamm": [
+                    {
+                      "name": "Schweine Zucht",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "NPr-Code (optional)": "nPrSchZLin",
+                  "NPr-Vereinbarung (optional)": "Schweine Zucht; lineare Korrektur",
+                  "Tierstamm": [
+                    {
+                      "name": " Schweine zucht",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "NPr-Code (optional)": "nPrTrutImpx",
+                  "NPr-Vereinbarung (optional)": "Truten; Import-Export-Bilanz",
+                  "Tierstamm": [
+                    {
+                      "name": "Truten",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "NPr-Code (optional)": null,
+                  "NPr-Vereinbarung (optional)": null,
+                  "Tierstamm": [
+                    {
+                      "name": "Hennen/Junghennen (Kotband)",
+                      "values": [
+                        {
+                          "kg_Nges_m3": 10.5,
+                          "kg_Nges_t": 21.0,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": 8.5,
+                          "kg_P2O5_t": 17.0
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Hennen/Junghennen (Kotgrube; Bodenhaltung)",
+                      "values": [
+                        {
+                          "kg_Nges_m3": 13.0,
+                          "kg_Nges_t": 26.0,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": 15.0,
+                          "kg_P2O5_t": 30.0
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Kälber",
+                      "values": [
+                        {
+                          "kg_Nges_m3": 3.0,
+                          "kg_Nges_t": 5.0,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": 1.5,
+                          "kg_P2O5_t": 2.5
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Kaninchen",
+                      "values": [
+                        {
+                          "kg_Nges_m3": 6.2,
+                          "kg_Nges_t": 8.9,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": 4.8,
+                          "kg_P2O5_t": 6.9
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Legehennen (Kotband)",
+                      "values": [
+                        {
+                          "kg_Nges_m3": 16.8,
+                          "kg_Nges_t": 21.0,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": 13.6,
+                          "kg_P2O5_t": 17.0
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Legehennen (Kotgrube; Bodenhaltung)",
+                      "values": [
+                        {
+                          "kg_Nges_m3": 13.5,
+                          "kg_Nges_t": 27.0,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": 15.0,
+                          "kg_P2O5_t": 30.0
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Poulets",
+                      "values": [
+                        {
+                          "kg_Nges_m3": 19.2,
+                          "kg_Nges_t": 32.0,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": 10.2,
+                          "kg_P2O5_t": 17.0
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Rindvieh Rindermast",
+                      "values": [
+                        {
+                          "kg_Nges_m3": 3.08,
+                          "kg_Nges_t": 4.1,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": 0.98,
+                          "kg_P2O5_t": 1.3
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Rindvieh/Schweine gemischt",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Schafe",
+                      "values": [
+                        {
+                          "kg_Nges_m3": 4.1,
+                          "kg_Nges_t": 8.2,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": 1.85,
+                          "kg_P2O5_t": 3.7
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Schweine Mast",
+                      "values": [
+                        {
+                          "kg_Nges_m3": 6.61,
+                          "kg_Nges_t": 8.8,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": 4.62,
+                          "kg_P2O5_t": 6.6
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Schweine Zucht",
+                      "values": [
+                        {
+                          "kg_Nges_m3": 6.61,
+                          "kg_Nges_t": 8.8,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": 4.62,
+                          "kg_P2O5_t": 6.6
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Truten",
+                      "values": [
+                        {
+                          "kg_Nges_m3": 14.0,
+                          "kg_Nges_t": 28.0,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": 11.5,
+                          "kg_P2O5_t": 23.0
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Ziegen",
+                      "values": [
+                        {
+                          "kg_Nges_m3": 4.1,
+                          "kg_Nges_t": 8.2,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": 1.85,
+                          "kg_P2O5_t": 3.7
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Mist betriebsspezifisch (gem. Berechnung)",
+              "NPr": [
+                {
+                  "NPr-Code (optional)": "nPrKanImpx",
+                  "NPr-Vereinbarung (optional)": "Kaninchen; Import-Export-Bilanz",
+                  "Tierstamm": [
+                    {
+                      "name": "Kaninchen NPr",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "NPr-Code (optional)": "nPrSchMImpx",
+                  "NPr-Vereinbarung (optional)": "Schweine Mast; Import-Export-Bilanz",
+                  "Tierstamm": [
+                    {
+                      "name": "Rindvieh/Schweine gemischt",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Schweine Ziegenucht/Mast",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "NPr-Code (optional)": "nPrSchMLin",
+                  "NPr-Vereinbarung (optional)": "Schweine Mast; lineare Korrektur",
+                  "Tierstamm": [
+                    {
+                      "name": "Rindvieh/Schweine gemischt",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Schweine Zucht/Mast",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "NPr-Code (optional)": "nPrSchZImpx",
+                  "NPr-Vereinbarung (optional)": "Schweine Zucht; Import-Export-Bilanz",
+                  "Tierstamm": [
+                    {
+                      "name": "Rindvieh/Schweine gemischt",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Schweine Zucht/Mast",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "NPr-Code (optional)": "nPrSchZLin",
+                  "NPr-Vereinbarung (optional)": "Schweine Zucht; lineare Korrektur",
+                  "Tierstamm": [
+                    {
+                      "name": " Rindvieh/Schweine gemischt",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Schweine Zucht/Mast",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "NPr-Code (optional)": null,
+                  "NPr-Vereinbarung (optional)": null,
+                  "Tierstamm": [
+                    {
+                      "name": "Schweine Zucht/Mast",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Gülle betriebsspezifisch (gem. Berechnung)",
+              "NPr": [
+                {
+                  "NPr-Code (optional)": "nPrSchMImpx",
+                  "NPr-Vereinbarung (optional)": "Schweine Mast; Import-Export-Bilanz",
+                  "Tierstamm": [
+                    {
+                      "name": "Rindvieh/Schweine gemischt",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Schweine Mast",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Schweine Zucht/Mast",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "NPr-Code (optional)": "nPrSchMLin",
+                  "NPr-Vereinbarung (optional)": "Schweine Mast; lineare Korrektur",
+                  "Tierstamm": [
+                    {
+                      "name": "Rindvieh/Schweine gemischt",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Schweine Mast",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Schweine Zucht/Mast",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "NPr-Code (optional)": "nPrSchZImpx",
+                  "NPr-Vereinbarung (optional)": "Schweine Zucht; Import-Export-Bilanz",
+                  "Tierstamm": [
+                    {
+                      "name": "Rindvieh/Schweine gemischt",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Schweine Zucht",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Schweine Zucht/Mast",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "NPr-Code (optional)": "nPrSchZLin",
+                  "NPr-Vereinbarung (optional)": "Schweine Zucht; lineare Korrektur",
+                  "Tierstamm": [
+                    {
+                      "name": " Rindvieh/Schweine gemischt",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    },
+                    {
+                      "name": " Schweine zucht",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Schweine Zucht/Mast",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "NPr-Code (optional)": null,
+                  "NPr-Vereinbarung (optional)": null,
+                  "Tierstamm": [
+                    {
+                      "name": "Fische",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Rindvieh Rindermast",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Rindvieh/Schweine gemischt",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Rindvieh Milch- und Mutterkühe/Aufzucht",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Schweine Mast",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Schweine Zucht",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Schweine Zucht/Mast",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Gülle Verdünnung 1:0.5",
+              "NPr": [
+                {
+                  "NPr-Code (optional)": "nPrSchMImpx",
+                  "NPr-Vereinbarung (optional)": "Schweine Mast; Import-Export-Bilanz",
+                  "Tierstamm": [
+                    {
+                      "name": "Schweine Mast",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "NPr-Code (optional)": "nPrSchMLin",
+                  "NPr-Vereinbarung (optional)": "Schweine Mast; lineare Korrektur",
+                  "Tierstamm": [
+                    {
+                      "name": "Schweine Mast",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "NPr-Code (optional)": "nPrSchZImpx",
+                  "NPr-Vereinbarung (optional)": "Schweine Zucht; Import-Export-Bilanz",
+                  "Tierstamm": [
+                    {
+                      "name": "Schweine Zucht",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "NPr-Code (optional)": "nPrSchZLin",
+                  "NPr-Vereinbarung (optional)": "Schweine Zucht; lineare Korrektur",
+                  "Tierstamm": [
+                    {
+                      "name": " Schweine zucht",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "NPr-Code (optional)": null,
+                  "NPr-Vereinbarung (optional)": null,
+                  "Tierstamm": [
+                    {
+                      "name": "Rindvieh Rindermast",
+                      "values": [
+                        {
+                          "kg_Nges_m3": 2.67,
+                          "kg_Nges_t": 2.67,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": 0.87,
+                          "kg_P2O5_t": 0.87
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Rindvieh Milch- und Mutterkühe/Aufzucht",
+                      "values": [
+                        {
+                          "kg_Nges_m3": 2.6,
+                          "kg_Nges_t": 2.6,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": 1.13,
+                          "kg_P2O5_t": 1.13
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Schweine Mast",
+                      "values": [
+                        {
+                          "kg_Nges_m3": 4.33,
+                          "kg_Nges_t": 4.33,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": 2.13,
+                          "kg_P2O5_t": 2.13
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Schweine Zucht",
+                      "values": [
+                        {
+                          "kg_Nges_m3": 3.1,
+                          "kg_Nges_t": 3.1,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": 1.8,
+                          "kg_P2O5_t": 1.8
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Gülle Verdünnung 1:1",
+              "NPr": [
+                {
+                  "NPr-Code (optional)": "nPrSchMImpx",
+                  "NPr-Vereinbarung (optional)": "Schweine Mast; Import-Export-Bilanz",
+                  "Tierstamm": [
+                    {
+                      "name": "Schweine Mast",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "NPr-Code (optional)": "nPrSchMLin",
+                  "NPr-Vereinbarung (optional)": "Schweine Mast; lineare Korrektur",
+                  "Tierstamm": [
+                    {
+                      "name": "Schweine Mast",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "NPr-Code (optional)": "nPrSchZImpx",
+                  "NPr-Vereinbarung (optional)": "Schweine Zucht; Import-Export-Bilanz",
+                  "Tierstamm": [
+                    {
+                      "name": "Schweine Zucht",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "NPr-Code (optional)": "nPrSchZLin",
+                  "NPr-Vereinbarung (optional)": "Schweine Zucht; lineare Korrektur",
+                  "Tierstamm": [
+                    {
+                      "name": " Schweine zucht",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "NPr-Code (optional)": null,
+                  "NPr-Vereinbarung (optional)": null,
+                  "Tierstamm": [
+                    {
+                      "name": "Rindvieh Rindermast",
+                      "values": [
+                        {
+                          "kg_Nges_m3": 2.0,
+                          "kg_Nges_t": 2.0,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": 0.65,
+                          "kg_P2O5_t": 0.65
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Rindvieh Milch- und Mutterkühe/Aufzucht",
+                      "values": [
+                        {
+                          "kg_Nges_m3": 1.95,
+                          "kg_Nges_t": 1.95,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": 0.85,
+                          "kg_P2O5_t": 0.85
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Schweine Mast",
+                      "values": [
+                        {
+                          "kg_Nges_m3": 3.25,
+                          "kg_Nges_t": 3.25,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": 1.6,
+                          "kg_P2O5_t": 1.6
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Schweine Zucht",
+                      "values": [
+                        {
+                          "kg_Nges_m3": 2.4,
+                          "kg_Nges_t": 2.4,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": 1.4,
+                          "kg_P2O5_t": 1.4
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Gülle Mist",
+              "NPr": [
+                {
+                  "NPr-Code (optional)": "nPrSchMLin",
+                  "NPr-Vereinbarung (optional)": "Schweine Mast; lineare Korrektur",
+                  "Tierstamm": [
+                    {
+                      "name": "Schweine Mast",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Ernterückstände von Gemüsekulturen",
+              "NPr": [
+                {
+                  "NPr-Code (optional)": null,
+                  "NPr-Vereinbarung (optional)": null,
+                  "Tierstamm": [
+                    {
+                      "name": "Andere Hofdünger",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": 3.3,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": 0.9
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Unvergärter Separatorenmist",
+              "NPr": [
+                {
+                  "NPr-Code (optional)": null,
+                  "NPr-Vereinbarung (optional)": null,
+                  "Tierstamm": [
+                    {
+                      "name": "Andere Hofdünger",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Unvergärter Separatorengülle",
+              "NPr": [
+                {
+                  "NPr-Code (optional)": null,
+                  "NPr-Vereinbarung (optional)": null,
+                  "Tierstamm": [
+                    {
+                      "name": "Andere Hofdünger",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Mistkompost;betriebsspezifisch (gem. Berechnung)",
+              "NPr": [
+                {
+                  "NPr-Code (optional)": null,
+                  "NPr-Vereinbarung (optional)": null,
+                  "Tierstamm": [
+                    {
+                      "name": "Andere Hofdünger",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Gärdünngülle",
+              "NPr": [
+                {
+                  "NPr-Code (optional)": null,
+                  "NPr-Vereinbarung (optional)": null,
+                  "Tierstamm": [
+                    {
+                      "name": "Andere Hofdünger",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Gärgülle",
+              "NPr": [
+                {
+                  "NPr-Code (optional)": null,
+                  "NPr-Vereinbarung (optional)": null,
+                  "Tierstamm": [
+                    {
+                      "name": "Andere Hofdünger",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Gärmist",
+              "NPr": [
+                {
+                  "NPr-Code (optional)": null,
+                  "NPr-Vereinbarung (optional)": null,
+                  "Tierstamm": [
+                    {
+                      "name": "Andere Hofdünger",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Mist verflüssigt",
+              "NPr": [
+                {
+                  "NPr-Code (optional)": null,
+                  "NPr-Vereinbarung (optional)": null,
+                  "Tierstamm": [
+                    {
+                      "name": "Andere Hofdünger",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Mischgülle",
+              "NPr": [
+                {
+                  "NPr-Code (optional)": null,
+                  "NPr-Vereinbarung (optional)": null,
+                  "Tierstamm": [
+                    {
+                      "name": "Andere Hofdünger",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Mistmischung",
+              "NPr": [
+                {
+                  "NPr-Code (optional)": null,
+                  "NPr-Vereinbarung (optional)": null,
+                  "Tierstamm": [
+                    {
+                      "name": "Andere Hofdünger",
+                      "values": [
+                        {
+                          "kg_Nges_m3": null,
+                          "kg_Nges_t": null,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": null,
+                          "kg_P2O5_t": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Mist frisch",
+              "NPr": [
+                {
+                  "NPr-Code (optional)": null,
+                  "NPr-Vereinbarung (optional)": null,
+                  "Tierstamm": [
+                    {
+                      "name": "Pferde",
+                      "values": [
+                        {
+                          "kg_Nges_m3": 1.76,
+                          "kg_Nges_t": 4.4,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": 1.0,
+                          "kg_P2O5_t": 2.5
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Mist verrottet",
+              "NPr": [
+                {
+                  "NPr-Code (optional)": null,
+                  "NPr-Vereinbarung (optional)": null,
+                  "Tierstamm": [
+                    {
+                      "name": "Pferde",
+                      "values": [
+                        {
+                          "kg_Nges_m3": 1.76,
+                          "kg_Nges_t": 4.4,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": 1.0,
+                          "kg_P2O5_t": 2.5
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Laufstallmist",
+              "NPr": [
+                {
+                  "NPr-Code (optional)": null,
+                  "NPr-Vereinbarung (optional)": null,
+                  "Tierstamm": [
+                    {
+                      "name": "Rindvieh Milch- und Mutterkühe/Aufzucht",
+                      "values": [
+                        {
+                          "kg_Nges_m3": 3.68,
+                          "kg_Nges_t": 4.9,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": 1.65,
+                          "kg_P2O5_t": 2.2013
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Stapelmist",
+              "NPr": [
+                {
+                  "NPr-Code (optional)": null,
+                  "NPr-Vereinbarung (optional)": null,
+                  "Tierstamm": [
+                    {
+                      "name": "Rindvieh Milch- und Mutterkühe/Aufzucht",
+                      "values": [
+                        {
+                          "kg_Nges_m3": 3.38,
+                          "kg_Nges_t": 4.5,
+                          "kg_Nverf_m3": null,
+                          "kg_Nverf_t": null,
+                          "kg_P2O5_m3": 2.25,
+                          "kg_P2O5_t": 3.0
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

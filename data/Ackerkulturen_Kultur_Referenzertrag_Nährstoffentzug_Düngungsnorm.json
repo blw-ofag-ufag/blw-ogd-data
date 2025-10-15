@@ -1,0 +1,2094 @@
+{
+    "Ackerkulturen": {
+        "Columns": {
+            "Kultur": string,
+            "Produkt": [
+                {
+                    "Name": string,
+                    "Referenzertrag (dt/ha)": string,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": int,
+                        "P": int,
+                        "P2O5": int,
+                        "K": int,
+                        "K2O": int,
+                        "Mg": int
+                    ],
+                }
+            ],
+            "Total": {
+                "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                    "N": int,
+                    "P": int,
+                    "P2O5": int,
+                    "K": int,
+                    "K2O": int,
+                    "Mg": int
+                ],
+                "Düngungsnorm (kg/ha)": [
+                    "N": int,
+                    "P": int,
+                    "P2O5": int,
+                    "K": int,
+                    "K2O": int,
+                    "Mg": int
+                ],
+                "Düngungsnorm (kg/ha) per subgroup": [
+                    {
+                        "Varieties": list[string
+                        ],
+                        "Düngungsnorm (kg/ha)": [
+                            "N": int,
+                            "P": int,
+                            "P2O5": int,
+                            "K": int,
+                            "K2O": int,
+                            "Mg": int
+                        ]
+                    }
+                ]
+            }
+        },
+        "Data": {
+            "Kultur": "Winterweizen (Brot- und Biskuitweizen)",
+            "Produkt": [
+                {
+                    "Name": "Körner",
+                    "Referenzertrag (dt/ha)": 60,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 121,
+                        "P": 21,
+                        "P2O5": 49,
+                        "K": 22,
+                        "K2O": 26,
+                        "Mg": 7
+                    ],
+                },
+                {
+                    "Name": "Stroh",
+                    "Referenzertrag (dt/ha)": 70,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 22,
+                        "P": 6,
+                        "P2O5": 13,
+                        "K": 62,
+                        "K2O": 75,
+                        "Mg": 5
+                    ],
+                }
+            ],
+            "Total": {
+                "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                    "N": 143,
+                    "P": 27,
+                    "P2O5": 63,
+                    "K": 84,
+                    "K2O": 101,
+                    "Mg": 12
+                ],
+                "Düngungsnorm (kg/ha)": [
+                    "N": 140,
+                    "P": 27,
+                    "P2O5": 63,
+                    "K": 67,
+                    "K2O": 81,
+                    "Mg": 15
+                ]
+            }
+        },
+        {
+            "Kultur": "Futterweizen",
+            "Produkt": [
+                {
+                    "Name": "Körner",
+                    "Referenzertrag (dt/ha)": 75,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 130,
+                        "P": 27,
+                        "P2O5": 62,
+                        "K": 27,
+                        "K2O": 32,
+                        "Mg": 9
+                    ],
+                },
+                {
+                    "Name": "Stroh",
+                    "Referenzertrag (dt/ha)": 75,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 21,
+                        "P": 6,
+                        "P2O5": 14,
+                        "K": 66,
+                        "K2O": 80,
+                        "Mg": 5
+                    ],
+                }
+            ],
+            "Total": {
+                "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                    "N": 151,
+                    "P": 33,
+                    "P2O5": 76,
+                    "K": 93,
+                    "K2O": 113,
+                    "Mg": 14
+                ],
+                "Düngungsnorm (kg/ha)": [
+                    "N": 140,
+                    "P": 33,
+                    "P2O5": 76,
+                    "K": 74,
+                    "K2O": 90,
+                    "Mg": 15
+                ]
+            }
+        },
+        {
+            "Kultur": "Sommerweizen",
+            "Produkt": [
+                {
+                    "Name": "Körner",
+                    "Referenzertrag (dt/ha)": 50,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 101,
+                        "P": 18,
+                        "P2O5": 41,
+                        "K": 18,
+                        "K2O": 22,
+                        "Mg": 6
+                    ],
+                },
+                {
+                    "Name": "Stroh",
+                    "Referenzertrag (dt/ha)": 60,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 19,
+                        "P": 5,
+                        "P2O5": 11,
+                        "K": 53,
+                        "K2O": 64,
+                        "Mg": 4
+                    ],
+                }
+            ],
+            "Total": {
+                "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                    "N": 120,
+                    "P": 23,
+                    "P2O5": 52,
+                    "K": 71,
+                    "K2O": 86,
+                    "Mg": 10
+                ],
+                "Düngungsnorm (kg/ha)": [
+                    "N": 120,
+                    "P": 23,
+                    "P2O5": 52,
+                    "K": 71,
+                    "K2O": 86,
+                    "Mg": 10
+                ]
+            }
+        },
+        {
+            "Kultur": "Wintergerste",
+            "Produkt": [
+                {
+                    "Name": "Körner",
+                    "Referenzertrag (dt/ha)": 60,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 89,
+                        "P": 22,
+                        "P2O5": 50,
+                        "K": 27,
+                        "K2O": 32,
+                        "Mg": 7
+                    ],
+                },
+                {
+                    "Name": "Stroh",
+                    "Referenzertrag (dt/ha)": 60,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 26,
+                        "P": 6,
+                        "P2O5": 13,
+                        "K": 80,
+                        "K2O": 96,
+                        "Mg": 4
+                    ],
+                }
+            ],
+            "Total": {
+                "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                    "N": 115,
+                    "P": 28,
+                    "P2O5": 64,
+                    "K": 107,
+                    "K2O": 128,
+                    "Mg": 11
+                ],
+                "Düngungsnorm (kg/ha)": [
+                    "N": 110,
+                    "P": 28,
+                    "P2O5": 64,
+                    "K": 86,
+                    "K2O": 103,
+                    "Mg": 15
+                ]
+            }
+        },
+        {
+            "Kultur": "Sommergerste",
+            "Produkt": [
+                {
+                    "Name": "Körner",
+                    "Referenzertrag (dt/ha)": 55,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 81,
+                        "P": 20,
+                        "P2O5": 46,
+                        "K": 25,
+                        "K2O": 30,
+                        "Mg": 6
+                    ],
+                },
+                {
+                    "Name": "Stroh",
+                    "Referenzertrag (dt/ha)": 55,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 25,
+                        "P": 5,
+                        "P2O5": 12,
+                        "K": 73,
+                        "K2O": 88,
+                        "Mg": 3
+                    ],
+                }
+            ],
+            "Total": {
+                "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                    "N": 105,
+                    "P": 25,
+                    "P2O5": 58,
+                    "K": 98,
+                    "K2O": 118,
+                    "Mg": 9
+                ],
+                "Düngungsnorm (kg/ha)": [
+                    "N": 90,
+                    "P": 25,
+                    "P2O5": 58,
+                    "K": 98,
+                    "K2O": 118,
+                    "Mg": 10
+                ]
+            }
+        },
+        {
+            "Kultur": "Winterhafer",
+            "Produkt": [
+                {
+                    "Name": "Körner",
+                    "Referenzertrag (dt/ha)": 55,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 88,
+                        "P": 19,
+                        "P2O5": 44,
+                        "K": 23,
+                        "K2O": 28,
+                        "Mg": 6
+                    ],
+                },
+                {
+                    "Name": "Stroh",
+                    "Referenzertrag (dt/ha)": 70,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 35,
+                        "P": 8,
+                        "P2O5": 19,
+                        "K": 122,
+                        "K2O": 147,
+                        "Mg": 6
+                    ],
+                }
+            ],
+            "Total": {
+                "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                    "N": 123,
+                    "P": 27,
+                    "P2O5": 63,
+                    "K": 145,
+                    "K2O": 175,
+                    "Mg": 12
+                ],
+                "Düngungsnorm (kg/ha)": [
+                    "N": 90,
+                    "P": 27,
+                    "P2O5": 63,
+                    "K": 116,
+                    "K2O": 140,
+                    "Mg": 15
+                ]
+            }
+        },
+        {
+            "Kultur": "Sommerhafer",
+            "Produkt": [
+                {
+                    "Name": "Körner",
+                    "Referenzertrag (dt/ha)": 55,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 91,
+                        "P": 19,
+                        "P2O5": 44,
+                        "K": 23,
+                        "K2O": 28,
+                        "Mg": 6
+                    ],
+                },
+                {
+                    "Name": "Stroh",
+                    "Referenzertrag (dt/ha)": 70,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 29,
+                        "P": 8,
+                        "P2O5": 19,
+                        "K": 122,
+                        "K2O": 147,
+                        "Mg": 6
+                    ],
+                }
+            ],
+            "Total": {
+                "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                    "N": 120,
+                    "P": 27,
+                    "P2O5": 63,
+                    "K": 145,
+                    "K2O": 175,
+                    "Mg": 12
+                ],
+                "Düngungsnorm (kg/ha)": [
+                    "N": 90,
+                    "P": 27,
+                    "P2O5": 63,
+                    "K": 145,
+                    "K2O": 175,
+                    "Mg": 15
+                ]
+            }
+        },
+        {
+            "Kultur": "Winterroggen",
+            "Produkt": [
+                {
+                    "Name": "Körner",
+                    "Referenzertrag (dt/ha)": 55,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 72,
+                        "P": 19,
+                        "P2O5": 44,
+                        "K": 23,
+                        "K2O": 28,
+                        "Mg": 6
+                    ],
+                },
+                {
+                    "Name": "Stroh",
+                    "Referenzertrag (dt/ha)": 70,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 21,
+                        "P": 6,
+                        "P2O5": 14,
+                        "K": 70,
+                        "K2O": 84,
+                        "Mg": 7
+                    ],
+                }
+            ],
+            "Total": {
+                "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                    "N": 93,
+                    "P": 25,
+                    "P2O5": 58,
+                    "K": 93,
+                    "K2O": 112,
+                    "Mg": 13
+                ],
+                "Düngungsnorm (kg/ha)": [
+                    "N": 90,
+                    "P": 25,
+                    "P2O5": 58,
+                    "K": 74,
+                    "K2O": 89,
+                    "Mg": 15
+                ]
+            }
+        },
+        {
+            "Kultur": "Winterroggen (Hybridsorten)",
+            "Produkt": [
+                {
+                    "Name": "Körner",
+                    "Referenzertrag (dt/ha)": 65,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 85,
+                        "P": 23,
+                        "P2O5": 52,
+                        "K": 27,
+                        "K2O": 33,
+                        "Mg": 7
+                    ],
+                },
+                {
+                    "Name": "Stroh",
+                    "Referenzertrag (dt/ha)": 75,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 23,
+                        "P": 7,
+                        "P2O5": 15,
+                        "K": 75,
+                        "K2O": 90,
+                        "Mg": 8
+                    ],
+                }
+            ],
+            "Total": {
+                "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                    "N": 108,
+                    "P": 30,
+                    "P2O5": 67,
+                    "K": 102,
+                    "K2O": 123,
+                    "Mg": 15
+                ],
+                "Düngungsnorm (kg/ha)": [
+                    "N": 90,
+                    "P": 30,
+                    "P2O5": 67,
+                    "K": 82,
+                    "K2O": 98,
+                    "Mg": 15
+                ]
+            }
+        },
+        {
+            "Kultur": "Dinkel",
+            "Produkt": [
+                {
+                    "Name": "Körner",
+                    "Referenzertrag (dt/ha)": 45,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 72,
+                        "P": 16,
+                        "P2O5": 36,
+                        "K": 19,
+                        "K2O": 23,
+                        "Mg": 5
+                    ],
+                },
+                {
+                    "Name": "Stroh",
+                    "Referenzertrag (dt/ha)": 70,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 35,
+                        "P": 8,
+                        "P2O5": 18,
+                        "K": 70,
+                        "K2O": 84,
+                        "Mg": 7
+                    ],
+                }
+            ],
+            "Total": {
+                "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                    "N": 107,
+                    "P": 24,
+                    "P2O5": 54,
+                    "K": 89,
+                    "K2O": 107,
+                    "Mg": 12
+                ],
+                "Düngungsnorm (kg/ha)": [
+                    "N": 100,
+                    "P": 24,
+                    "P2O5": 54,
+                    "K": 71,
+                    "K2O": 85,
+                    "Mg": 15
+                ]
+            }
+        },
+        {
+            "Kultur": "Wintertriticale",
+            "Produkt": [
+                {
+                    "Name": "Körner",
+                    "Referenzertrag (dt/ha)": 60,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 96,
+                        "P": 19,
+                        "P2O5": 43,
+                        "K": 24,
+                        "K2O": 29,
+                        "Mg": 5
+                    ],
+                },
+                {
+                    "Name": "Stroh",
+                    "Referenzertrag (dt/ha)": 75,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 25,
+                        "P": 5,
+                        "P2O5": 11,
+                        "K": 112,
+                        "K2O": 135,
+                        "Mg": 5
+                    ],
+                }
+            ],
+            "Total": {
+                "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                    "N": 121,
+                    "P": 24,
+                    "P2O5": 54,
+                    "K": 136,
+                    "K2O": 164,
+                    "Mg": 10
+                ],
+                "Düngungsnorm (kg/ha)": [
+                    "N": 110,
+                    "P": 24,
+                    "P2O5": 54,
+                    "K": 109,
+                    "K2O": 132,
+                    "Mg": 10
+                ]
+            }
+        },
+        {
+            "Kultur": "Sommertriticale",
+            "Produkt": [
+                {
+                    "Name": "Körner",
+                    "Referenzertrag (dt/ha)": 55,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 88,
+                        "P": 17,
+                        "P2O5": 40,
+                        "K": 22,
+                        "K2O": 27,
+                        "Mg": 5
+                    ],
+                },
+                {
+                    "Name": "Stroh",
+                    "Referenzertrag (dt/ha)": 70,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 23,
+                        "P": 4,
+                        "P2O5": 10,
+                        "K": 105,
+                        "K2O": 126,
+                        "Mg": 4
+                    ],
+                }
+            ],
+            "Total": {
+                "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                    "N": 111,
+                    "P": 21,
+                    "P2O5": 49,
+                    "K": 127,
+                    "K2O": 153,
+                    "Mg": 9
+                ],
+                "Düngungsnorm (kg/ha)": [
+                    "N": 100,
+                    "P": 21,
+                    "P2O5": 49,
+                    "K": 127,
+                    "K2O": 153,
+                    "Mg": 10
+                ]
+            }
+        },
+        {
+            "Kultur": "Emmer, Einkkorn",
+            "Produkt": [
+                {
+                    "Name": "Körner",
+                    "Referenzertrag (dt/ha)": 25,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 55,
+                        "P": 9,
+                        "P2O5": 20,
+                        "K": 11,
+                        "K2O": 13,
+                        "Mg": 4
+                    ],
+                },
+                {
+                    "Name": "Stroh",
+                    "Referenzertrag (dt/ha)": 45,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 18,
+                        "P": 6,
+                        "P2O5": 14,
+                        "K": 34,
+                        "K2O": 41,
+                        "Mg": 3
+                    ],
+                }
+            ],
+            "Total": {
+                "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                    "N": 73,
+                    "P": 15,
+                    "P2O5": 34,
+                    "K": 45,
+                    "K2O": 53,
+                    "Mg": 7
+                ],
+                "Düngungsnorm (kg/ha)": [
+                    "N": 30,
+                    "P": 15,
+                    "P2O5": 34,
+                    "K": 36,
+                    "K2O": 42,
+                    "Mg": 10
+                ]
+            }
+        },
+        {
+            "Kultur": "Hirse",
+            "Produkt": [
+                {
+                    "Name": "Körner",
+                    "Referenzertrag (dt/ha)": 35,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 58,
+                        "P": 10,
+                        "P2O5": 23,
+                        "K": 8,
+                        "K2O": 10,
+                        "Mg": 4
+                    ],
+                },
+                {
+                    "Name": "Stroh",
+                    "Referenzertrag (dt/ha)": 45,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 75,
+                        "P": 11,
+                        "P2O5": 25,
+                        "K": 85,
+                        "K2O": 102,
+                        "Mg": 11
+                    ],
+                }
+            ],
+            "Total": {
+                "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                    "N": 133,
+                    "P": 21,
+                    "P2O5": 48,
+                    "K": 93,
+                    "K2O": 112,
+                    "Mg": 15
+                ],
+                "Düngungsnorm (kg/ha)": [
+                    "N": 70,
+                    "P": 22,
+                    "P2O5": 51,
+                    "K": 95,
+                    "K2O": 114,
+                    "Mg": 12
+                ]
+            }
+        },
+        {
+            "Kultur": "Körnermais",
+            "Produkt": [
+                {
+                    "Name": "Körner",
+                    "Referenzertrag (dt/ha)": 100,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 130,
+                        "P": 26,
+                        "P2O5": 59,
+                        "K": 33,
+                        "K2O": 40,
+                        "Mg": 9
+                    ],
+                },
+                {
+                    "Name": "Stroh",
+                    "Referenzertrag (dt/ha)": 110,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 80,
+                        "P": 12,
+                        "P2O5": 26,
+                        "K": 160,
+                        "K2O": 191,
+                        "Mg": 14
+                    ],
+                }
+            ],
+            "Total": {
+                "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                    "N": 210,
+                    "P": 38,
+                    "P2O5": 85,
+                    "K": 193,
+                    "K2O": 231,
+                    "Mg": 23
+                ],
+                "Düngungsnorm (kg/ha)": [
+                    "N": 110,
+                    "P": 46,
+                    "P2O5": 103,
+                    "K": 195,
+                    "K2O": 235,
+                    "Mg": 25
+                ]
+            }
+        },
+        {
+            "Kultur": "Silomais",
+            "Produkt": [
+                {
+                    "Name": "Gesamtpflanze (Trockensubstanzertrag)",
+                    "Referenzertrag (dt/ha)": 185,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 218,
+                        "P": 38,
+                        "P2O5": 89,
+                        "K": 200,
+                        "K2O": 241,
+                        "Mg": 24
+                    ],
+                }
+            ],
+            "Total": {
+                "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                    "N": 218,
+                    "P": 38,
+                    "P2O5": 89,
+                    "K": 200,
+                    "K2O": 241,
+                    "Mg": 24
+                ],
+                "Düngungsnorm (kg/ha)": [
+                    "N": 110,
+                    "P": 46,
+                    "P2O5": 103,
+                    "K": 195,
+                    "K2O": 235,
+                    "Mg": 25
+                ]
+            }
+        },
+        {
+            "Kultur": "Grünmais",
+            "Produkt": [
+                {
+                    "Name": "Gesamtpflanze (Trockensubstanzertrag)",
+                    "Referenzertrag (dt/ha)": 60,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 114,
+                        "P": 17,
+                        "P2O5": 39,
+                        "K": 134,
+                        "K2O": 162,
+                        "Mg": 6
+                    ],
+                }
+            ],
+            "Total": {
+                "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                    "N": 114,
+                    "P": 17,
+                    "P2O5": 39,
+                    "K": 134,
+                    "K2O": 162,
+                    "Mg": 6
+                ],
+                "Düngungsnorm (kg/ha)": [
+                    "N": 70,
+                    "P": 17,
+                    "P2O5": 39,
+                    "K": 134,
+                    "K2O": 162,
+                    "Mg": 10
+                ]
+            }
+        },
+        {
+            "Kultur": "Kartoffeln (Speisekartoffeln und Kartoffeln für die technische Verarbeitung). Gruppe 1, Gruppe 2, Gruppe 3",
+            "Produkt": [
+                {
+                    "Name": "Knollen",
+                    "Referenzertrag (dt/ha)": 450,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 135,
+                        "P": 26,
+                        "P2O5": 59,
+                        "K": 202,
+                        "K2O": 243,
+                        "Mg": 9
+                    ],
+                },
+                {
+                    "Name": "Kraut",
+                    "Referenzertrag (dt/ha)": 200,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 28,
+                        "P": 4,
+                        "P2O5": 10,
+                        "K": 108,
+                        "K2O": 130,
+                        "Mg": 8
+                    ],
+                }
+            ],
+            "Total": {
+                "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                    "N": 163,
+                    "P": 30,
+                    "P2O5": 69,
+                    "K": 310,
+                    "K2O": 373,
+                    "Mg": 17
+                ],
+                "Düngungsnorm (kg/ha)": [
+                    "N": NaN,
+                    "P": NaN,
+                    "P2O5": NaN,
+                    "K": NaN,
+                    "K2O": NaN,
+                    "Mg": NaN
+                ],
+                "Düngungsnorm (kg/ha) per subgroup": [
+                    {
+                        "Varieties": [
+                            "Agria",
+                            "Fontane",
+                            "Jelly",
+                            "Nicola"
+                        ],
+                        "Düngungsnorm (kg/ha)": [
+                            "N": 80,
+                            "P": 36,
+                            "P2O5": 82,
+                            "K": 372,
+                            "K2O": 448,
+                            "Mg": 20
+                        ]
+                    },
+                    {
+                        "Varieties": [
+                            "Agata",
+                            "Annabelle",
+                            "Amandine",
+                            "Bintje",
+                            "Celtiane",
+                            "Challenger",
+                            "Désirée",
+                            "Ditta",
+                            "Erika",
+                            "Gourmandine",
+                            "Gwenne",
+                            "Hermes",
+                            "Lady Christl",
+                            "Laura",
+                            "Markies",
+                            "Panda",
+                            "Pirol",
+                            "Venezia",
+                            "Verdi"
+                        ],
+                        "Düngungsnorm (kg/ha)": [
+                            "N": 100,
+                            "P": 36,
+                            "P2O5": 82,
+                            "K": 372,
+                            "K2O": 448,
+                            "Mg": 20
+                        ]
+                    },
+                    {
+                        "Varieties": [
+                            "Charlotte",
+                            "Innovator",
+                            "Lady Claire",
+                            "Lady Rosetta",
+                            "Victoria"
+                        ],
+                        "Düngungsnorm (kg/ha)": [
+                            "N": 120,
+                            "P": 36,
+                            "P2O5": 82,
+                            "K": 372,
+                            "K2O": 448,
+                            "Mg": 20
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "Kultur": "Kartoffeln (Frühkartoffeln). Gruppe 1, Gruppe 2, Gruppe 3",
+            "Produkt": [
+                {
+                    "Name": "Knollen",
+                    "Referenzertrag (dt/ha)": 450,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 135,
+                        "P": 26,
+                        "P2O5": 59,
+                        "K": 202,
+                        "K2O": 243,
+                        "Mg": 9
+                    ],
+                },
+                {
+                    "Name": "Kraut",
+                    "Referenzertrag (dt/ha)": 200,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 28,
+                        "P": 4,
+                        "P2O5": 10,
+                        "K": 108,
+                        "K2O": 130,
+                        "Mg": 8
+                    ],
+                }
+            ],
+            "Total": {
+                "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                    "N": 163,
+                    "P": 30,
+                    "P2O5": 69,
+                    "K": 310,
+                    "K2O": 373,
+                    "Mg": 17
+                ],
+                "Düngungsnorm (kg/ha)": [
+                    "N": NaN,
+                    "P": NaN,
+                    "P2O5": NaN,
+                    "K": NaN,
+                    "K2O": NaN,
+                    "Mg": NaN
+                ],
+                "Düngungsnorm (kg/ha) per subgroup": [
+                    {
+                        "Varieties": [
+                            "Agria",
+                            "Fontane",
+                            "Jelly",
+                            "Nicola"
+                        ],
+                        "Düngungsnorm (kg/ha)": [
+                            "N": 80,
+                            "P": 36,
+                            "P2O5": 82,
+                            "K": 372,
+                            "K2O": 448,
+                            "Mg": 20
+                        ]
+                    },
+                    {
+                        "Varieties": [
+                            "Agata",
+                            "Annabelle",
+                            "Amandine",
+                            "Bintje",
+                            "Celtiane",
+                            "Challenger",
+                            "Désirée",
+                            "Ditta",
+                            "Erika",
+                            "Gourmandine",
+                            "Gwenne",
+                            "Hermes",
+                            "Lady Christl",
+                            "Laura",
+                            "Markies",
+                            "Panda",
+                            "Pirol",
+                            "Venezia",
+                            "Verdi"
+                        ],
+                        "Düngungsnorm (kg/ha)": [
+                            "N": 100,
+                            "P": 36,
+                            "P2O5": 82,
+                            "K": 372,
+                            "K2O": 448,
+                            "Mg": 20
+                        ]
+                    },
+                    {
+                        "Varieties": [
+                            "Charlotte",
+                            "Innovator",
+                            "Lady Claire",
+                            "Lady Rosetta",
+                            "Victoria"
+                        ],
+                        "Düngungsnorm (kg/ha)": [
+                            "N": 120,
+                            "P": 36,
+                            "P2O5": 82,
+                            "K": 372,
+                            "K2O": 448,
+                            "Mg": 20
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "Kultur": "Kartoffeln (Pflanzkartoffeln). Gruppe 1, Gruppe 2, Gruppe 3",
+            "Produkt": [
+                {
+                    "Name": "Knollen",
+                    "Referenzertrag (dt/ha)": 250,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 58,
+                        "P": 17,
+                        "P2O5": 38,
+                        "K": 104,
+                        "K2O": 125,
+                        "Mg": 5
+                    ],
+                },
+                {
+                    "Name": "Kraut",
+                    "Referenzertrag (dt/ha)": 200,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 66,
+                        "P": 6,
+                        "P2O5": 14,
+                        "K": 248,
+                        "K2O": 299,
+                        "Mg": 43
+                    ],
+                }
+            ],
+            "Total": {
+                "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                    "N": 124,
+                    "P": 23,
+                    "P2O5": 52,
+                    "K": 220,
+                    "K2O": 265,
+                    "Mg": 17
+                ],
+                "Düngungsnorm (kg/ha)": [
+                    "N": NaN,
+                    "P": NaN,
+                    "P2O5": NaN,
+                    "K": NaN,
+                    "K2O": NaN,
+                    "Mg": NaN
+                ],
+                "Düngungsnorm (kg/ha) per subgroup": [
+                    {
+                        "Varieties": [
+                            "Agria",
+                            "Fontane",
+                            "Jelly",
+                            "Nicola"
+                        ],
+                        "Düngungsnorm (kg/ha)": [
+                            "N": 60,
+                            "P": 28,
+                            "P2O5": 62,
+                            "K": 264,
+                            "K2O": 318,
+                            "Mg": 20
+                        ]
+                    },
+                    {
+                        "Varieties": [
+                            "Agata",
+                            "Annabelle",
+                            "Amandine",
+                            "Bintje",
+                            "Celtiane",
+                            "Challenger",
+                            "Désirée",
+                            "Ditta",
+                            "Erika",
+                            "Gourmandine",
+                            "Gwenne",
+                            "Hermes",
+                            "Lady Christl",
+                            "Laura",
+                            "Markies",
+                            "Panda",
+                            "Pirol",
+                            "Venezia",
+                            "Verdi"
+                        ],
+                        "Düngungsnorm (kg/ha)": [
+                            "N": 100,
+                            "P": 28,
+                            "P2O5": 62,
+                            "K": 264,
+                            "K2O": 318,
+                            "Mg": 20
+                        ]
+                    },
+                    {
+                        "Varieties": [
+                            "Charlotte",
+                            "Innovator",
+                            "Lady Claire",
+                            "Lady Rosetta",
+                            "Victoria"
+                        ],
+                        "Düngungsnorm (kg/ha)": [
+                            "N": 140,
+                            "P": 28,
+                            "P2O5": 62,
+                            "K": 264,
+                            "K2O": 318,
+                            "Mg": 20
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "Kultur": "Zuckerrüben",
+            "Produkt": [
+                {
+                    "Name": "Rüben",
+                    "Referenzertrag (dt/ha)": 900,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 108,
+                        "P": 24,
+                        "P2O5": 54,
+                        "K": 149,
+                        "K2O": 180,
+                        "Mg": 27
+                    ],
+                },
+                {
+                    "Name": "Kraut/Köpfe",
+                    "Referenzertrag (dt/ha)": 475,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 157,
+                        "P": 17,
+                        "P2O5": 38,
+                        "K": 248,
+                        "K2O": 299,
+                        "Mg": 43
+                    ],
+                }
+            ],
+            "Total": {
+                "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                    "N": 265,
+                    "P": 41,
+                    "P2O5": 92,
+                    "K": 397,
+                    "K2O": 479,
+                    "Mg": 70
+                ],
+                "Düngungsnorm (kg/ha)": [
+                    "N": 100,
+                    "P": 40,
+                    "P2O5": 92,
+                    "K": 318,
+                    "K2O": 383,
+                    "Mg": 70
+                ]
+            }
+        },
+        {
+            "Kultur": "Futterrüben",
+            "Produkt": [
+                {
+                    "Name": "Rüben (Trockensubstanzertrag)",
+                    "Referenzertrag (dt/ha)": 193,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 193,
+                        "P": 38,
+                        "P2O5": 88,
+                        "K": 261,
+                        "K2O": 315,
+                        "Mg": 23
+                    ],
+                },
+                {
+                    "Name": "Kraut",
+                    "Referenzertrag (dt/ha)": 400,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 140,
+                        "P": 14,
+                        "P2O5": 32,
+                        "K": 232,
+                        "K2O": 280,
+                        "Mg": 36
+                    ],
+                }
+            ],
+            "Total": {
+                "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                    "N": 333,
+                    "P": 52,
+                    "P2O5": 120,
+                    "K": 493,
+                    "K2O": 595,
+                    "Mg": 59
+                ],
+                "Düngungsnorm (kg/ha)": [
+                    "N": 100,
+                    "P": 52,
+                    "P2O5": 120,
+                    "K": 394,
+                    "K2O": 476,
+                    "Mg": 60
+                ]
+            }
+        },
+        {
+            "Kultur": "Winterraps",
+            "Produkt": [
+                {
+                    "Name": "Hauptprodukt",
+                    "Referenzertrag (dt/ha)": 35,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 102,
+                        "P": 22,
+                        "P2O5": 51,
+                        "K": 25,
+                        "K2O": 30,
+                        "Mg": 8
+                    ],
+                },
+                {
+                    "Name": "Nebenprodukt",
+                    "Referenzertrag (dt/ha)": 90,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 65,
+                        "P": 6,
+                        "P2O5": 14,
+                        "K": 142,
+                        "K2O": 171,
+                        "Mg": 4
+                    ],
+                }
+            ],
+            "Total": {
+                "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                    "N": 156,
+                    "P": 28,
+                    "P2O5": 64,
+                    "K": 167,
+                    "K2O": 201,
+                    "Mg": 12
+                ],
+                "Düngungsnorm (kg/ha)": [
+                    "N": 150,
+                    "P": 28,
+                    "P2O5": 69,
+                    "K": 167,
+                    "K2O": 202,
+                    "Mg": 15
+                ]
+            }
+        },
+        {
+            "Kultur": "Sommerraps",
+            "Produkt": [
+                {
+                    "Name": "Hauptprodukt",
+                    "Referenzertrag (dt/ha)": 25,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 65,
+                        "P": 16,
+                        "P2O5": 37,
+                        "K": 17,
+                        "K2O": 21,
+                        "Mg": 7
+                    ],
+                },
+                {
+                    "Name": "Nebenprodukt",
+                    "Referenzertrag (dt/ha)": 45,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 32,
+                        "P": 4,
+                        "P2O5": 9,
+                        "K": 46,
+                        "K2O": 56,
+                        "Mg": 7
+                    ],
+                }
+            ],
+            "Total": {
+                "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                    "N": 97,
+                    "P": 20,
+                    "P2O5": 46,
+                    "K": 63,
+                    "K2O": 77,
+                    "Mg": 14
+                ],
+                "Düngungsnorm (kg/ha)": [
+                    "N": 120,
+                    "P": 20,
+                    "P2O5": 46,
+                    "K": 63,
+                    "K2O": 77,
+                    "Mg": 15
+                ]
+            }
+        },
+        {
+            "Kultur": "Sonnenblumen",
+            "Produkt": [
+                {
+                    "Name": "Körner",
+                    "Referenzertrag (dt/ha)": 30,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 95,
+                        "P": 14,
+                        "P2O5": 33,
+                        "K": 32,
+                        "K2O": 25,
+                        "Mg": 9
+                    ],
+                },
+                {
+                    "Name": "Stroh",
+                    "Referenzertrag (dt/ha)": 60,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 54,
+                        "P": 7,
+                        "P2O5": 16,
+                        "K": 306,
+                        "K2O": 369,
+                        "Mg": 45
+                    ],
+                }
+            ],
+            "Total": {
+                "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                    "N": 149,
+                    "P": 21,
+                    "P2O5": 49,
+                    "K": 327,
+                    "K2O": 394,
+                    "Mg": 54
+                ],
+                "Düngungsnorm (kg/ha)": [
+                    "N": 60,
+                    "P": 21,
+                    "P2O5": 49,
+                    "K": 327,
+                    "K2O": 394,
+                    "Mg": 55
+                ]
+            }
+        },
+        {
+            "Kultur": "Ölhanf",
+            "Produkt": [
+                {
+                    "Name": "Körner",
+                    "Referenzertrag (dt/ha)": 13,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 60,
+                        "P": 14,
+                        "P2O5": 33,
+                        "K": 12,
+                        "K2O": 14,
+                        "Mg": 7
+                    ],
+                },
+                {
+                    "Name": "Stroh",
+                    "Referenzertrag (dt/ha)": 60,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 54,
+                        "P": 10,
+                        "P2O5": 23,
+                        "K": 70,
+                        "K2O": 84,
+                        "Mg": 9
+                    ],
+                }
+            ],
+            "Total": {
+                "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                    "N": 114,
+                    "P": 24,
+                    "P2O5": 56,
+                    "K": 82,
+                    "K2O": 98,
+                    "Mg": 16
+                ],
+                "Düngungsnorm (kg/ha)": [
+                    "N": 60,
+                    "P": 24,
+                    "P2O5": 56,
+                    "K": 82,
+                    "K2O": 98,
+                    "Mg": 20
+                ]
+            }
+        },
+        {
+            "Kultur": "Faserhanf",
+            "Produkt": [
+                {
+                    "Name": "Hauptprodukt",
+                    "Referenzertrag (dt/ha)": 100,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 30,
+                        "P": 13,
+                        "P2O5": 30,
+                        "K": 75,
+                        "K2O": 90,
+                        "Mg": 5
+                    ],
+                },
+                {
+                    "Name": "Nebenprodukt",
+                    "Referenzertrag (dt/ha)": 40,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 110,
+                        "P": 26,
+                        "P2O5": 60,
+                        "K": 91,
+                        "K2O": 110,
+                        "Mg": 6
+                    ],
+                }
+            ],
+            "Total": {
+                "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                    "N": 140,
+                    "P": 39,
+                    "P2O5": 90,
+                    "K": 166,
+                    "K2O": 200,
+                    "Mg": 25
+                ],
+                "Düngungsnorm (kg/ha)": [
+                    "N": 100,
+                    "P": 39,
+                    "P2O5": 90,
+                    "K": 166,
+                    "K2O": 200,
+                    "Mg": 25
+                ]
+            }
+        },
+        {
+            "Kultur": "Ölleinen",
+            "Produkt": [
+                {
+                    "Name": "Körner",
+                    "Referenzertrag (dt/ha)": 20,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 109,
+                        "P": 10,
+                        "P2O5": 24,
+                        "K": 16,
+                        "K2O": 19,
+                        "Mg": 1
+                    ],
+                },
+                {
+                    "Name": "Stroh",
+                    "Referenzertrag (dt/ha)": 25,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 15,
+                        "P": 6,
+                        "P2O5": 13,
+                        "K": 37,
+                        "K2O": 45,
+                        "Mg": 2
+                    ],
+                }
+            ],
+            "Total": {
+                "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                    "N": 124,
+                    "P": 16,
+                    "P2O5": 37,
+                    "K": 53,
+                    "K2O": 64,
+                    "Mg": 3
+                ],
+                "Düngungsnorm (kg/ha)": [
+                    "N": 124,
+                    "P": 16,
+                    "P2O5": 37,
+                    "K": 53,
+                    "K2O": 64,
+                    "Mg": 3
+                ]
+            }
+        },
+        {
+            "Kultur": "Faserlein",
+            "Produkt": [
+                {
+                    "Name": "Körner",
+                    "Referenzertrag (dt/ha)": 45,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 45,
+                        "P": 14,
+                        "P2O5": 32,
+                        "K": 75,
+                        "K2O": 90,
+                        "Mg": 9
+                    ],
+                },
+                {
+                    "Name": "Stroh",
+                    "Referenzertrag (dt/ha)": 15,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 82,
+                        "P": 8,
+                        "P2O5": 18,
+                        "K": 12,
+                        "K2O": 14,
+                        "Mg": 1
+                    ],
+                }
+            ],
+            "Total": {
+                "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                    "N": 127,
+                    "P": 22,
+                    "P2O5": 50,
+                    "K": 87,
+                    "K2O": 104,
+                    "Mg": 10
+                ],
+                "Düngungsnorm (kg/ha)": [
+                    "N": 60,
+                    "P": 22,
+                    "P2O5": 50,
+                    "K": 87,
+                    "K2O": 104,
+                    "Mg": 10
+                ]
+            }
+        },
+        {
+            "Kultur": "Chinaschilf",
+            "Produkt": [
+                {
+                    "Name": "Ganzpflanze (Trockensubstanzertrag)",
+                    "Referenzertrag (dt/ha)": 200,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 42,
+                        "P": 9,
+                        "P2O5": 20,
+                        "K": 93,
+                        "K2O": 112,
+                        "Mg": 6
+                    ],
+                }
+            ],
+            "Total": {
+                "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                    "N": 42,
+                    "P": 9,
+                    "P2O5": 20,
+                    "K": 93,
+                    "K2O": 112,
+                    "Mg": 6
+                ],
+                "Düngungsnorm (kg/ha)": [
+                    "N": 30,
+                    "P": 9,
+                    "P2O5": 20,
+                    "K": 93,
+                    "K2O": 112,
+                    "Mg": 10
+                ]
+            }
+        },
+        {
+            "Kultur": "Kenaf",
+            "Produkt": [
+                {
+                    "Name": "Ganzpflanze (Trockensubstanzertrag)",
+                    "Referenzertrag (dt/ha)": 50,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 100,
+                        "P": 26,
+                        "P2O5": 60,
+                        "K": 66,
+                        "K2O": 80,
+                        "Mg": 10
+                    ],
+                }
+            ],
+            "Total": {
+                "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                    "N": 100,
+                    "P": 26,
+                    "P2O5": 60,
+                    "K": 66,
+                    "K2O": 80,
+                    "Mg": 10
+                ],
+                "Düngungsnorm (kg/ha)": [
+                    "N": 70,
+                    "P": 26,
+                    "P2O5": 60,
+                    "K": 66,
+                    "K2O": 80,
+                    "Mg": 10
+                ]
+            }
+        },
+        {
+            "Kultur": "Eiweisserbsen",
+            "Produkt": [
+                {
+                    "Name": "Körner",
+                    "Referenzertrag (dt/ha)": 40,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 140,
+                        "P": 17,
+                        "P2O5": 39,
+                        "K": 40,
+                        "K2O": 48,
+                        "Mg": 5
+                    ],
+                },
+                {
+                    "Name": "Stroh",
+                    "Referenzertrag (dt/ha)": 50,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 100,
+                        "P": 17,
+                        "P2O5": 39,
+                        "K": 66,
+                        "K2O": 80,
+                        "Mg": 11
+                    ],
+                }
+            ],
+            "Total": {
+                "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                    "N": 240,
+                    "P": 34,
+                    "P2O5": 78,
+                    "K": 106,
+                    "K2O": 128,
+                    "Mg": 16
+                ],
+                "Düngungsnorm (kg/ha)": [
+                    "N": 0,
+                    "P": 34,
+                    "P2O5": 78,
+                    "K": 127,
+                    "K2O": 154,
+                    "Mg": 20
+                ]
+            }
+        },
+        {
+            "Kultur": "Ackerbohnen",
+            "Produkt": [
+                {
+                    "Name": "Körner",
+                    "Referenzertrag (dt/ha)": 40,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 160,
+                        "P": 24,
+                        "P2O5": 56,
+                        "K": 46,
+                        "K2O": 56,
+                        "Mg": 10
+                    ],
+                },
+                {
+                    "Name": "Stroh",
+                    "Referenzertrag (dt/ha)": 45,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 135,
+                        "P": 7,
+                        "P2O5": 16,
+                        "K": 75,
+                        "K2O": 90,
+                        "Mg": 15
+                    ],
+                }
+            ],
+            "Total": {
+                "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                    "N": 295,
+                    "P": 31,
+                    "P2O5": 72,
+                    "K": 121,
+                    "K2O": 146,
+                    "Mg": 25
+                ],
+                "Düngungsnorm (kg/ha)": [
+                    "N": 0,
+                    "P": 31,
+                    "P2O5": 72,
+                    "K": 145,
+                    "K2O": 175,
+                    "Mg": 25
+                ]
+            }
+        },
+        {
+            "Kultur": "Sojabohne",
+            "Produkt": [
+                {
+                    "Name": "Körner",
+                    "Referenzertrag (dt/ha)": 30,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 180,
+                        "P": 15,
+                        "P2O5": 35,
+                        "K": 48,
+                        "K2O": 58,
+                        "Mg": 6
+                    ],
+                },
+                {
+                    "Name": "Stroh",
+                    "Referenzertrag (dt/ha)": 30,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 105,
+                        "P": 15,
+                        "P2O5": 35,
+                        "K": 53,
+                        "K2O": 64,
+                        "Mg": 9
+                    ],
+                }
+            ],
+            "Total": {
+                "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                    "N": 285,
+                    "P": 30,
+                    "P2O5": 70,
+                    "K": 101,
+                    "K2O": 122,
+                    "Mg": 15
+                ],
+                "Düngungsnorm (kg/ha)": [
+                    "N": 0,
+                    "P": 30,
+                    "P2O5": 71,
+                    "K": 121,
+                    "K2O": 147,
+                    "Mg": 15
+                ]
+            }
+        },
+        {
+            "Kultur": "Süsslupine",
+            "Produkt": [
+                {
+                    "Name": "Körner",
+                    "Referenzertrag (dt/ha)": 30,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 165,
+                        "P": 13,
+                        "P2O5": 30,
+                        "K": 34,
+                        "K2O": 41,
+                        "Mg": 6
+                    ],
+                },
+                {
+                    "Name": "Stroh",
+                    "Referenzertrag (dt/ha)": 30,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 105,
+                        "P": 5,
+                        "P2O5": 12,
+                        "K": 50,
+                        "K2O": 60,
+                        "Mg": 12
+                    ],
+                }
+            ],
+            "Total": {
+                "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                    "N": 270,
+                    "P": 18,
+                    "P2O5": 42,
+                    "K": 84,
+                    "K2O": 101,
+                    "Mg": 18
+                ],
+                "Düngungsnorm (kg/ha)": [
+                    "N": 0,
+                    "P": 18,
+                    "P2O5": 42,
+                    "K": 101,
+                    "K2O": 121,
+                    "Mg": 20
+                ]
+            }
+        },
+        {
+            "Kultur": "Gründünger (Leguminosen)",
+            "Produkt": [
+                {
+                    "Name": "Ganzpflanze (Trockensubstanzertrag)",
+                    "Referenzertrag (dt/ha)": 35,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 153,
+                        "P": 16,
+                        "P2O5": 37,
+                        "K": 102,
+                        "K2O": 123,
+                        "Mg": 9
+                    ],
+                }
+            ],
+            "Total": {
+                "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                    "N": 153,
+                    "P": 16,
+                    "P2O5": 37,
+                    "K": 102,
+                    "K2O": 123,
+                    "Mg": 9
+                ],
+                "Düngungsnorm (kg/ha)": [
+                    "N": 0,
+                    "P": 0,
+                    "P2O5": 0,
+                    "K": 0,
+                    "K2O": 0,
+                    "Mg": 0
+                ]
+            }
+        },
+        {
+            "Kultur": "Gründünger /Nicht-Leguminosen)",
+            "Produkt": [
+                {
+                    "Name": "Ganzpflanze (Trockensubstanzertrag)",
+                    "Referenzertrag (dt/ha)": 35,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 85,
+                        "P": 14,
+                        "P2O5": 32,
+                        "K": 143,
+                        "K2O": 173,
+                        "Mg": 8
+                    ],
+                }
+            ],
+            "Total": {
+                "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                    "N": 85,
+                    "P": 14,
+                    "P2O5": 32,
+                    "K": 143,
+                    "K2O": 173,
+                    "Mg": 8
+                ],
+                "Düngungsnorm (kg/ha)": [
+                    "N": 0,
+                    "P": 0,
+                    "P2O5": 0,
+                    "K": 0,
+                    "K2O": 0,
+                    "Mg": 0
+                ]
+            }
+        },
+        {
+            "Kultur": "Zwischenfrüchte (pro Nutzung)",
+            "Produkt": [
+                {
+                    "Name": "Ganzpflanze (Trockensubstanzertrag)",
+                    "Referenzertrag (dt/ha)": 25,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 70,
+                        "P": 10,
+                        "P2O5": 24,
+                        "K": 75,
+                        "K2O": 90,
+                        "Mg": 6
+                    ],
+                }
+            ],
+            "Total": {
+                "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                    "N": 70,
+                    "P": 10,
+                    "P2O5": 24,
+                    "K": 75,
+                    "K2O": 90,
+                    "Mg": 6
+                ],
+                "Düngungsnorm (kg/ha)": [
+                    "N": 30,
+                    "P": 10,
+                    "P2O5": 24,
+                    "K": 55,
+                    "K2O": 67,
+                    "Mg": 10
+                ]
+            }
+        },
+        {
+            "Kultur": "Tabak Burley",
+            "Produkt": [
+                {
+                    "Name": "Blätter (Trockensubstanzertrag)",
+                    "Referenzertrag (dt/ha)": 25,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 75,
+                        "P": 8,
+                        "P2O5": 18,
+                        "K": 104,
+                        "K2O": 125,
+                        "Mg": 7
+                    ],
+                },
+                {
+                    "Name": "Stängel (Trockensubstanzertrag)",
+                    "Referenzertrag (dt/ha)": 30,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 69,
+                        "P": 10,
+                        "P2O5": 22,
+                        "K": 112,
+                        "K2O": 135,
+                        "Mg": 6
+                    ],
+                }
+            ],
+            "Total": {
+                "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                    "N": 144,
+                    "P": 18,
+                    "P2O5": 40,
+                    "K": 216,
+                    "K2O": 260,
+                    "Mg": 13
+                ],
+                "Düngungsnorm (kg/ha)": [
+                    "N": 170,
+                    "P": 18,
+                    "P2O5": 40,
+                    "K": 216,
+                    "K2O": 260,
+                    "Mg": 15
+                ]
+            }
+        },
+        {
+            "Kultur": "Tabak Virginie",
+            "Produkt": [
+                {
+                    "Name": "Blätter (Trockensubstanzertrag)",
+                    "Referenzertrag (dt/ha)": 25,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 63,
+                        "P": 6,
+                        "P2O5": 14,
+                        "K": 99,
+                        "K2O": 119,
+                        "Mg": 5
+                    ],
+                },
+                {
+                    "Name": "Stängel (Trockensubstanzertrag)",
+                    "Referenzertrag (dt/ha)": 25,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 25,
+                        "P": 9,
+                        "P2O5": 21,
+                        "K": 104,
+                        "K2O": 125,
+                        "Mg": 10
+                    ],
+                }
+            ],
+            "Total": {
+                "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                    "N": 88,
+                    "P": 15,
+                    "P2O5": 35,
+                    "K": 203,
+                    "K2O": 244,
+                    "Mg": 15
+                ],
+                "Düngungsnorm (kg/ha)": [
+                    "N": 30,
+                    "P": 15,
+                    "P2O5": 35,
+                    "K": 203,
+                    "K2O": 244,
+                    "Mg": 15
+                ]
+            }
+        },
+        {
+            "Kultur": "Reis",
+            "Produkt": [
+                {
+                    "Name": "Körner",
+                    "Referenzertrag (dt/ha)": 60,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 66,
+                        "P": 18,
+                        "P2O5": 41,
+                        "K": 27,
+                        "K2O": 32,
+                        "Mg": 5
+                    ],
+                },
+                {
+                    "Name": "Stroh",
+                    "Referenzertrag (dt/ha)": 60,
+                    "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                        "N": 39,
+                        "P": 8,
+                        "P2O5": 18,
+                        "K": 102,
+                        "K2O": 123,
+                        "Mg": 11
+                    ],
+                }
+            ],
+            "Total": {
+                "Nährstoffentzug basierend auf dem Referenzertrag (kg/ha)": [
+                    "N": 105,
+                    "P": 26,
+                    "P2O5": 60,
+                    "K": 129,
+                    "K2O": 155,
+                    "Mg": 16
+                ],
+                "Düngungsnorm (kg/ha)": [
+                    "N": 110,
+                    "P": 26,
+                    "P2O5": 60,
+                    "K": 120,
+                    "K2O": 145,
+                    "Mg": 10
+                ]
+            }
+        }
+    }
+}

@@ -1500,7 +1500,7 @@
     },
     {
       "id": "00edca46-63f1-499c-88e2-3bfdbcec5725",
-      "dossierStatus": "InProgress",
+      "dossierStatus": "Finalized",
       "breedersReference": "HZD 11-1735",
       "breedingCountry": "NL",
       "cropCategory": "Agricultural Crops",
@@ -1513,7 +1513,7 @@
       "currentlyRelevantDenomination": {
         "denomination": "Lizzie",
         "status": "Proposed",
-        "validFrom": "2026-03-24"
+        "validFrom": "2026-03-31"
       },
       "denominations": [
         {
@@ -1521,13 +1521,13 @@
           "statusHistory": [
             {
               "status": "Proposed",
-              "validFrom": "2026-03-24"
+              "validFrom": "2026-03-31"
             }
           ]
         }
       ],
       "plantBreedersRight": {
-        "status": "None",
+        "status": "Application",
         "request": {
           "number": "26-3725",
           "entryDate": "2026-03-24"
@@ -3880,10 +3880,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "25-3689",
           "entryDate": "2025-08-07"
+        },
+        "register": {
+          "number": "26.3245",
+          "grantOfProtection": "2026-03-31",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
@@ -43518,10 +43523,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "23-3583",
           "entryDate": "2023-07-06"
+        },
+        "register": {
+          "number": "26.3243",
+          "grantOfProtection": "2026-03-31",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
@@ -44719,7 +44729,7 @@
     },
     {
       "id": "30b2a5bf-4777-4f22-8982-29ad5e0bc450",
-      "dossierStatus": "InProgress",
+      "dossierStatus": "Finalized",
       "breedersReference": "HZA 14-1202",
       "breedingCountry": "NL",
       "cropCategory": "Agricultural Crops",
@@ -44732,7 +44742,7 @@
       "currentlyRelevantDenomination": {
         "denomination": "Aimee",
         "status": "Proposed",
-        "validFrom": "2026-03-19"
+        "validFrom": "2026-03-31"
       },
       "denominations": [
         {
@@ -44740,13 +44750,13 @@
           "statusHistory": [
             {
               "status": "Proposed",
-              "validFrom": "2026-03-19"
+              "validFrom": "2026-03-31"
             }
           ]
         }
       ],
       "plantBreedersRight": {
-        "status": "None",
+        "status": "Application",
         "request": {
           "number": "26-3718",
           "entryDate": "2026-03-19"
@@ -50981,7 +50991,7 @@
     },
     {
       "id": "37b6290a-4299-41a1-8f01-d263812d6990",
-      "dossierStatus": "InProgress",
+      "dossierStatus": "Finalized",
       "breedersReference": "HZD 11-1899",
       "breedingCountry": "NL",
       "cropCategory": "Agricultural Crops",
@@ -50994,7 +51004,7 @@
       "currentlyRelevantDenomination": {
         "denomination": "Fonia",
         "status": "Proposed",
-        "validFrom": "2026-03-24"
+        "validFrom": "2026-03-31"
       },
       "denominations": [
         {
@@ -51002,13 +51012,13 @@
           "statusHistory": [
             {
               "status": "Proposed",
-              "validFrom": "2026-03-24"
+              "validFrom": "2026-03-31"
             }
           ]
         }
       ],
       "plantBreedersRight": {
-        "status": "None",
+        "status": "Application",
         "request": {
           "number": "26-3729",
           "entryDate": "2026-03-24"
@@ -51387,7 +51397,7 @@
     },
     {
       "id": "382ef1fe-50dd-4923-b87b-b48d70454231",
-      "dossierStatus": "InProgress",
+      "dossierStatus": "Finalized",
       "breedersReference": "HZA 11-3013",
       "breedingCountry": "NL",
       "cropCategory": "Agricultural Crops",
@@ -51400,7 +51410,7 @@
       "currentlyRelevantDenomination": {
         "denomination": "Libra",
         "status": "Proposed",
-        "validFrom": "2026-03-19"
+        "validFrom": "2026-03-31"
       },
       "denominations": [
         {
@@ -51408,13 +51418,13 @@
           "statusHistory": [
             {
               "status": "Proposed",
-              "validFrom": "2026-03-19"
+              "validFrom": "2026-03-31"
             }
           ]
         }
       ],
       "plantBreedersRight": {
-        "status": "None",
+        "status": "Application",
         "request": {
           "number": "26-3719",
           "entryDate": "2026-03-19"
@@ -78926,7 +78936,7 @@
     },
     {
       "id": "5866b10f-bdb2-485e-951f-16562e4c66ba",
-      "dossierStatus": "InProgress",
+      "dossierStatus": "Finalized",
       "breedersReference": "STT 10-6777",
       "breedingCountry": "NL",
       "cropCategory": "Agricultural Crops",
@@ -78939,7 +78949,7 @@
       "currentlyRelevantDenomination": {
         "denomination": "Aisha",
         "status": "Proposed",
-        "validFrom": "2026-03-24"
+        "validFrom": "2026-03-31"
       },
       "denominations": [
         {
@@ -78947,13 +78957,13 @@
           "statusHistory": [
             {
               "status": "Proposed",
-              "validFrom": "2026-03-24"
+              "validFrom": "2026-03-31"
             }
           ]
         }
       ],
       "plantBreedersRight": {
-        "status": "None",
+        "status": "Application",
         "request": {
           "number": "26-3728",
           "entryDate": "2026-03-24"
@@ -120573,7 +120583,7 @@
     },
     {
       "id": "8913eb74-f690-4c32-a916-d39c396a14d4",
-      "dossierStatus": "InProgress",
+      "dossierStatus": "Finalized",
       "breedersReference": "HZA 13-1642",
       "breedingCountry": "NL",
       "cropCategory": "Agricultural Crops",
@@ -120586,7 +120596,7 @@
       "currentlyRelevantDenomination": {
         "denomination": "Estebana",
         "status": "Proposed",
-        "validFrom": "2026-03-24"
+        "validFrom": "2026-03-31"
       },
       "denominations": [
         {
@@ -120594,13 +120604,13 @@
           "statusHistory": [
             {
               "status": "Proposed",
-              "validFrom": "2026-03-24"
+              "validFrom": "2026-03-31"
             }
           ]
         }
       ],
       "plantBreedersRight": {
-        "status": "None",
+        "status": "Application",
         "request": {
           "number": "26-3727",
           "entryDate": "2026-03-24"
@@ -134651,7 +134661,7 @@
     },
     {
       "id": "9763f027-5768-4fe1-9dd8-dd07f2c8e16f",
-      "dossierStatus": "InProgress",
+      "dossierStatus": "Finalized",
       "breedersReference": "STT 12-400",
       "breedingCountry": "NL",
       "cropCategory": "Agricultural Crops",
@@ -134664,7 +134674,7 @@
       "currentlyRelevantDenomination": {
         "denomination": "Castor",
         "status": "Proposed",
-        "validFrom": "2026-03-24"
+        "validFrom": "2026-03-31"
       },
       "denominations": [
         {
@@ -134672,13 +134682,13 @@
           "statusHistory": [
             {
               "status": "Proposed",
-              "validFrom": "2026-03-24"
+              "validFrom": "2026-03-31"
             }
           ]
         }
       ],
       "plantBreedersRight": {
-        "status": "None",
+        "status": "Application",
         "request": {
           "number": "26-3726",
           "entryDate": "2026-03-24"
@@ -156572,7 +156582,7 @@
     },
     {
       "id": "af107d0c-1295-4cd5-9f88-ce2a3b0b6b84",
-      "dossierStatus": "InProgress",
+      "dossierStatus": "Finalized",
       "breedersReference": "STT 11-3542",
       "breedingCountry": "NL",
       "cropCategory": "Agricultural Crops",
@@ -156585,7 +156595,7 @@
       "currentlyRelevantDenomination": {
         "denomination": "La Vida",
         "status": "Proposed",
-        "validFrom": "2026-03-23"
+        "validFrom": "2026-03-31"
       },
       "denominations": [
         {
@@ -156593,13 +156603,13 @@
           "statusHistory": [
             {
               "status": "Proposed",
-              "validFrom": "2026-03-23"
+              "validFrom": "2026-03-31"
             }
           ]
         }
       ],
       "plantBreedersRight": {
-        "status": "None",
+        "status": "Application",
         "request": {
           "number": "26-3724",
           "entryDate": "2026-03-23"
@@ -176484,7 +176494,7 @@
     },
     {
       "id": "c4b864f7-ae19-49ea-acd6-8b6244cf0eff",
-      "dossierStatus": "InProgress",
+      "dossierStatus": "Finalized",
       "breedersReference": "STT 12-873",
       "breedingCountry": "NL",
       "cropCategory": "Agricultural Crops",
@@ -176497,7 +176507,7 @@
       "currentlyRelevantDenomination": {
         "denomination": "Storm",
         "status": "Proposed",
-        "validFrom": "2026-03-23"
+        "validFrom": "2026-03-31"
       },
       "denominations": [
         {
@@ -176505,13 +176515,13 @@
           "statusHistory": [
             {
               "status": "Proposed",
-              "validFrom": "2026-03-23"
+              "validFrom": "2026-03-31"
             }
           ]
         }
       ],
       "plantBreedersRight": {
-        "status": "None",
+        "status": "Application",
         "request": {
           "number": "26-3722",
           "entryDate": "2026-03-23"
@@ -178332,7 +178342,7 @@
     },
     {
       "id": "c6862f4a-303e-428d-8c51-88d63d630269",
-      "dossierStatus": "InProgress",
+      "dossierStatus": "Finalized",
       "breedersReference": "HOO 11-54",
       "breedingCountry": "NL",
       "cropCategory": "Agricultural Crops",
@@ -178345,7 +178355,7 @@
       "currentlyRelevantDenomination": {
         "denomination": "Travolta",
         "status": "Proposed",
-        "validFrom": "2026-03-20"
+        "validFrom": "2026-03-31"
       },
       "denominations": [
         {
@@ -178353,13 +178363,13 @@
           "statusHistory": [
             {
               "status": "Proposed",
-              "validFrom": "2026-03-20"
+              "validFrom": "2026-03-31"
             }
           ]
         }
       ],
       "plantBreedersRight": {
-        "status": "None",
+        "status": "Application",
         "request": {
           "number": "26-3720",
           "entryDate": "2026-03-20"
@@ -195616,7 +195626,7 @@
     },
     {
       "id": "da43a90c-961a-4bcc-8954-e966428e6e38",
-      "dossierStatus": "InProgress",
+      "dossierStatus": "Finalized",
       "breedersReference": "HOM 13-8236",
       "breedingCountry": "NL",
       "cropCategory": "Agricultural Crops",
@@ -195629,7 +195639,7 @@
       "currentlyRelevantDenomination": {
         "denomination": "Invictus",
         "status": "Proposed",
-        "validFrom": "2026-03-20"
+        "validFrom": "2026-03-31"
       },
       "denominations": [
         {
@@ -195637,13 +195647,13 @@
           "statusHistory": [
             {
               "status": "Proposed",
-              "validFrom": "2026-03-20"
+              "validFrom": "2026-03-31"
             }
           ]
         }
       ],
       "plantBreedersRight": {
-        "status": "None",
+        "status": "Application",
         "request": {
           "number": "26-3721",
           "entryDate": "2026-03-20"
@@ -196656,10 +196666,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "24-3629",
           "entryDate": "2024-05-30"
+        },
+        "register": {
+          "number": "26.3244",
+          "grantOfProtection": "2026-03-31",
+          "maxProtectionYears": 30
         },
         "contacts": {
           "agent": {
@@ -222121,7 +222136,7 @@
     },
     {
       "id": "fa469766-898b-46de-b4d2-b9d3d0cf307e",
-      "dossierStatus": "InProgress",
+      "dossierStatus": "Finalized",
       "breedersReference": "STT 12-652",
       "breedingCountry": "NL",
       "cropCategory": "Agricultural Crops",
@@ -222134,7 +222149,7 @@
       "currentlyRelevantDenomination": {
         "denomination": "SH C 2030",
         "status": "Proposed",
-        "validFrom": "2026-03-23"
+        "validFrom": "2026-03-31"
       },
       "denominations": [
         {
@@ -222142,13 +222157,13 @@
           "statusHistory": [
             {
               "status": "Proposed",
-              "validFrom": "2026-03-23"
+              "validFrom": "2026-03-31"
             }
           ]
         }
       ],
       "plantBreedersRight": {
-        "status": "None",
+        "status": "Application",
         "request": {
           "number": "26-3723",
           "entryDate": "2026-03-23"

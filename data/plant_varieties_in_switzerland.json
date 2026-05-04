@@ -154,6 +154,8 @@
             "name": "F. Weilenmann Agroscope",
             "address": "",
             "postBox": "",
+            "postalCode": "8000",
+            "city": "Z\u00FCrich",
             "country": "CH"
           },
           {
@@ -5009,7 +5011,7 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "Winvine",
-        "status": "Published",
+        "status": "Approved",
         "validFrom": "2025-11-24"
       },
       "denominations": [
@@ -5017,7 +5019,7 @@
           "denomination": "Winvine",
           "statusHistory": [
             {
-              "status": "Published",
+              "status": "Approved",
               "validFrom": "2025-11-24"
             },
             {
@@ -7301,7 +7303,7 @@
         },
         "contacts": {
           "agent": {
-            "name": "Rudolf Dieffenbach Beerenkulturen",
+            "name": "Beerenkulturen Rudolf Dieffenbach",
             "address": "Friedhofweg 21",
             "postBox": "",
             "postalCode": "4414",
@@ -12577,7 +12579,7 @@
         },
         "contacts": {
           "agent": {
-            "name": "Rudolf Dieffenbach Beerenkulturen",
+            "name": "Beerenkulturen Rudolf Dieffenbach",
             "address": "Friedhofweg 21",
             "postBox": "",
             "postalCode": "4414",
@@ -14326,7 +14328,7 @@
         },
         "contacts": {
           "agent": {
-            "name": "VitaPlant AG Rob van den Beuken",
+            "name": "VitaPlant AG Amin Chaanin",
             "address": "Romanshornerstr. 39",
             "postBox": "",
             "postalCode": "8592",
@@ -15752,7 +15754,7 @@
         },
         "contacts": {
           "agent": {
-            "name": "Rudolf Dieffenbach Beerenkulturen",
+            "name": "Beerenkulturen Rudolf Dieffenbach",
             "address": "Friedhofweg 21",
             "postBox": "",
             "postalCode": "4414",
@@ -24221,6 +24223,8 @@
             "name": "F. Weilenmann Agroscope",
             "address": "",
             "postBox": "",
+            "postalCode": "8000",
+            "city": "Z\u00FCrich",
             "country": "CH"
           },
           {
@@ -30745,6 +30749,8 @@
             "name": "F. Weilenmann Agroscope",
             "address": "",
             "postBox": "",
+            "postalCode": "8000",
+            "city": "Z\u00FCrich",
             "country": "CH"
           },
           {
@@ -37110,7 +37116,7 @@
         },
         "contacts": {
           "agent": {
-            "name": "Rudolf Dieffenbach Beerenkulturen",
+            "name": "Beerenkulturen Rudolf Dieffenbach",
             "address": "Friedhofweg 21",
             "postBox": "",
             "postalCode": "4414",
@@ -37296,7 +37302,7 @@
     },
     {
       "id": "26e49ee7-906c-464c-83ba-a393185231e2",
-      "dossierStatus": "InProgress",
+      "dossierStatus": "Finalized",
       "breedersReference": "11-087-30",
       "breedingCountry": "NL",
       "cropCategory": "Fruit and berries",
@@ -37309,7 +37315,7 @@
       "currentlyRelevantDenomination": {
         "denomination": "Ferris",
         "status": "Proposed",
-        "validFrom": "2026-03-17"
+        "validFrom": "2026-04-15"
       },
       "denominations": [
         {
@@ -37317,13 +37323,13 @@
           "statusHistory": [
             {
               "status": "Proposed",
-              "validFrom": "2026-03-17"
+              "validFrom": "2026-04-15"
             }
           ]
         }
       ],
       "plantBreedersRight": {
-        "status": "None",
+        "status": "Application",
         "request": {
           "number": "26-3714",
           "entryDate": "2026-03-17"
@@ -38781,6 +38787,8 @@
             "name": "F. Weilenmann Agroscope",
             "address": "",
             "postBox": "",
+            "postalCode": "8000",
+            "city": "Z\u00FCrich",
             "country": "CH"
           },
           {
@@ -44708,6 +44716,8 @@
             "name": "F. Weilenmann Agroscope",
             "address": "",
             "postBox": "",
+            "postalCode": "8000",
+            "city": "Z\u00FCrich",
             "country": "CH"
           },
           {
@@ -46546,7 +46556,7 @@
         },
         "contacts": {
           "agent": {
-            "name": "Beat Lehner Obstbau / Baumschule",
+            "name": "Obstbau / Baumschule Beat Lehner",
             "address": "Ringstrasse 8",
             "postBox": "",
             "postalCode": "8552",
@@ -60517,6 +60527,8 @@
             "name": "F. Weilenmann Agroscope",
             "address": "",
             "postBox": "",
+            "postalCode": "8000",
+            "city": "Z\u00FCrich",
             "country": "CH"
           },
           {
@@ -65823,7 +65835,7 @@
         },
         "contacts": {
           "agent": {
-            "name": "Rudolf Dieffenbach Beerenkulturen",
+            "name": "Beerenkulturen Rudolf Dieffenbach",
             "address": "Friedhofweg 21",
             "postBox": "",
             "postalCode": "4414",
@@ -67788,7 +67800,7 @@
         },
         "contacts": {
           "agent": {
-            "name": "Beat Lehner Obstbau / Baumschule",
+            "name": "Obstbau / Baumschule Beat Lehner",
             "address": "Ringstrasse 8",
             "postBox": "",
             "postalCode": "8552",
@@ -74003,7 +74015,7 @@
         },
         "contacts": {
           "agent": {
-            "name": "VitaPlant AG Rob van den Beuken",
+            "name": "VitaPlant AG Amin Chaanin",
             "address": "Romanshornerstr. 39",
             "postBox": "",
             "postalCode": "8592",
@@ -76211,6 +76223,8 @@
             "name": "F. Weilenmann Agroscope",
             "address": "",
             "postBox": "",
+            "postalCode": "8000",
+            "city": "Z\u00FCrich",
             "country": "CH"
           },
           {
@@ -80054,6 +80068,8 @@
             "name": "F. Weilenmann Agroscope",
             "address": "",
             "postBox": "",
+            "postalCode": "8000",
+            "city": "Z\u00FCrich",
             "country": "CH"
           },
           {
@@ -80402,6 +80418,8 @@
             "name": "F. Weilenmann Agroscope",
             "address": "",
             "postBox": "",
+            "postalCode": "8000",
+            "city": "Z\u00FCrich",
             "country": "CH"
           },
           {
@@ -82574,7 +82592,7 @@
         },
         "contacts": {
           "agent": {
-            "name": "Beat Lehner Obstbau / Baumschule",
+            "name": "Obstbau / Baumschule Beat Lehner",
             "address": "Ringstrasse 8",
             "postBox": "",
             "postalCode": "8552",
@@ -83899,6 +83917,8 @@
             "name": "F. Weilenmann Agroscope",
             "address": "",
             "postBox": "",
+            "postalCode": "8000",
+            "city": "Z\u00FCrich",
             "country": "CH"
           },
           {
@@ -87465,7 +87485,7 @@
         },
         "contacts": {
           "agent": {
-            "name": "Beat Lehner Obstbau / Baumschule",
+            "name": "Obstbau / Baumschule Beat Lehner",
             "address": "Ringstrasse 8",
             "postBox": "",
             "postalCode": "8552",
@@ -89901,6 +89921,8 @@
             "name": "F. Weilenmann Agroscope",
             "address": "",
             "postBox": "",
+            "postalCode": "8000",
+            "city": "Z\u00FCrich",
             "country": "CH"
           },
           {
@@ -98876,7 +98898,7 @@
         },
         "contacts": {
           "agent": {
-            "name": "Rudolf Dieffenbach Beerenkulturen",
+            "name": "Beerenkulturen Rudolf Dieffenbach",
             "address": "Friedhofweg 21",
             "postBox": "",
             "postalCode": "4414",
@@ -100454,7 +100476,7 @@
         },
         "contacts": {
           "agent": {
-            "name": "Beat Lehner Obstbau / Baumschule",
+            "name": "Obstbau / Baumschule Beat Lehner",
             "address": "Ringstrasse 8",
             "postBox": "",
             "postalCode": "8552",
@@ -102661,6 +102683,8 @@
             "name": "F. Weilenmann Agroscope",
             "address": "",
             "postBox": "",
+            "postalCode": "8000",
+            "city": "Z\u00FCrich",
             "country": "CH"
           },
           {
@@ -103637,7 +103661,7 @@
         },
         "contacts": {
           "agent": {
-            "name": "Beat Lehner Obstbau / Baumschule",
+            "name": "Obstbau / Baumschule Beat Lehner",
             "address": "Ringstrasse 8",
             "postBox": "",
             "postalCode": "8552",
@@ -104467,7 +104491,7 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "Julion",
-        "status": "Published",
+        "status": "Approved",
         "validFrom": "2025-11-24"
       },
       "denominations": [
@@ -104475,7 +104499,7 @@
           "denomination": "Julion",
           "statusHistory": [
             {
-              "status": "Published",
+              "status": "Approved",
               "validFrom": "2025-11-24"
             },
             {
@@ -106811,7 +106835,7 @@
         },
         "contacts": {
           "agent": {
-            "name": "Beat Lehner Obstbau / Baumschule",
+            "name": "Obstbau / Baumschule Beat Lehner",
             "address": "Ringstrasse 8",
             "postBox": "",
             "postalCode": "8552",
@@ -110300,6 +110324,8 @@
             "name": "F. Weilenmann Agroscope",
             "address": "",
             "postBox": "",
+            "postalCode": "8000",
+            "city": "Z\u00FCrich",
             "country": "CH"
           },
           {
@@ -114884,6 +114910,8 @@
             "name": "F. Weilenmann Agroscope",
             "address": "",
             "postBox": "",
+            "postalCode": "8000",
+            "city": "Z\u00FCrich",
             "country": "CH"
           },
           {
@@ -117706,7 +117734,7 @@
         },
         "contacts": {
           "agent": {
-            "name": "Beat Lehner Obstbau / Baumschule",
+            "name": "Obstbau / Baumschule Beat Lehner",
             "address": "Ringstrasse 8",
             "postBox": "",
             "postalCode": "8552",
@@ -123277,6 +123305,8 @@
             "name": "F. Weilenmann Agroscope",
             "address": "",
             "postBox": "",
+            "postalCode": "8000",
+            "city": "Z\u00FCrich",
             "country": "CH"
           },
           {
@@ -128144,6 +128174,8 @@
             "name": "F. Weilenmann Agroscope",
             "address": "",
             "postBox": "",
+            "postalCode": "8000",
+            "city": "Z\u00FCrich",
             "country": "CH"
           },
           {
@@ -132882,7 +132914,7 @@
         },
         "contacts": {
           "agent": {
-            "name": "Rudolf Dieffenbach Beerenkulturen",
+            "name": "Beerenkulturen Rudolf Dieffenbach",
             "address": "Friedhofweg 21",
             "postBox": "",
             "postalCode": "4414",
@@ -137565,7 +137597,7 @@
         },
         "contacts": {
           "agent": {
-            "name": "Rudolf Dieffenbach Beerenkulturen",
+            "name": "Beerenkulturen Rudolf Dieffenbach",
             "address": "Friedhofweg 21",
             "postBox": "",
             "postalCode": "4414",
@@ -140502,7 +140534,7 @@
         },
         "contacts": {
           "agent": {
-            "name": "Rudolf Dieffenbach Beerenkulturen",
+            "name": "Beerenkulturen Rudolf Dieffenbach",
             "address": "Friedhofweg 21",
             "postBox": "",
             "postalCode": "4414",
@@ -141956,6 +141988,8 @@
             "name": "F. Weilenmann Agroscope",
             "address": "",
             "postBox": "",
+            "postalCode": "8000",
+            "city": "Z\u00FCrich",
             "country": "CH"
           },
           {
@@ -144906,7 +144940,7 @@
     },
     {
       "id": "a0b6d6fe-7af9-4029-96dc-86688ee37a38",
-      "dossierStatus": "InProgress",
+      "dossierStatus": "Finalized",
       "breedersReference": "17-100-06",
       "breedingCountry": "NL",
       "cropCategory": "Fruit and berries",
@@ -144919,7 +144953,7 @@
       "currentlyRelevantDenomination": {
         "denomination": "Finette",
         "status": "Proposed",
-        "validFrom": "2026-03-17"
+        "validFrom": "2026-04-15"
       },
       "denominations": [
         {
@@ -144927,13 +144961,13 @@
           "statusHistory": [
             {
               "status": "Proposed",
-              "validFrom": "2026-03-17"
+              "validFrom": "2026-04-15"
             }
           ]
         }
       ],
       "plantBreedersRight": {
-        "status": "None",
+        "status": "Application",
         "request": {
           "number": "26-3713",
           "entryDate": "2026-03-17"
@@ -145717,6 +145751,8 @@
             "name": "F. Weilenmann Agroscope",
             "address": "",
             "postBox": "",
+            "postalCode": "8000",
+            "city": "Z\u00FCrich",
             "country": "CH"
           },
           {
@@ -148378,6 +148414,8 @@
             "name": "F. Weilenmann Agroscope",
             "address": "",
             "postBox": "",
+            "postalCode": "8000",
+            "city": "Z\u00FCrich",
             "country": "CH"
           },
           {
@@ -151708,7 +151746,7 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "Brianna",
-        "status": "Published",
+        "status": "Approved",
         "validFrom": "2025-10-31"
       },
       "denominations": [
@@ -151716,7 +151754,7 @@
           "denomination": "Brianna",
           "statusHistory": [
             {
-              "status": "Published",
+              "status": "Approved",
               "validFrom": "2025-10-31"
             },
             {
@@ -151727,10 +151765,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "25-3693",
           "entryDate": "2025-10-13"
+        },
+        "register": {
+          "number": "26.3246",
+          "grantOfProtection": "2026-04-30",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
@@ -153973,6 +154016,8 @@
             "name": "F. Weilenmann Agroscope",
             "address": "",
             "postBox": "",
+            "postalCode": "8000",
+            "city": "Z\u00FCrich",
             "country": "CH"
           },
           {
@@ -154627,6 +154672,8 @@
             "name": "F. Weilenmann Agroscope",
             "address": "",
             "postBox": "",
+            "postalCode": "8000",
+            "city": "Z\u00FCrich",
             "country": "CH"
           },
           {
@@ -160754,7 +160801,7 @@
         },
         "contacts": {
           "agent": {
-            "name": "Rudolf Dieffenbach Beerenkulturen",
+            "name": "Beerenkulturen Rudolf Dieffenbach",
             "address": "Friedhofweg 21",
             "postBox": "",
             "postalCode": "4414",
@@ -165336,6 +165383,8 @@
             "name": "F. Weilenmann Agroscope",
             "address": "",
             "postBox": "",
+            "postalCode": "8000",
+            "city": "Z\u00FCrich",
             "country": "CH"
           },
           {
@@ -165839,7 +165888,7 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "Napoleon",
-        "status": "Published",
+        "status": "Approved",
         "validFrom": "2025-10-31"
       },
       "denominations": [
@@ -165847,7 +165896,7 @@
           "denomination": "Napoleon",
           "statusHistory": [
             {
-              "status": "Published",
+              "status": "Approved",
               "validFrom": "2025-10-31"
             },
             {
@@ -165858,10 +165907,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "25-3694",
           "entryDate": "2025-10-16"
+        },
+        "register": {
+          "number": "26.3247",
+          "grantOfProtection": "2026-04-30",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
@@ -171024,7 +171078,7 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Withdrawn",
         "request": {
           "number": "26-3708",
           "entryDate": "2026-02-03"
@@ -174907,6 +174961,8 @@
             "name": "F. Weilenmann Agroscope",
             "address": "",
             "postBox": "",
+            "postalCode": "8000",
+            "city": "Z\u00FCrich",
             "country": "CH"
           },
           {
@@ -178313,6 +178369,8 @@
             "name": "F. Weilenmann Agroscope",
             "address": "",
             "postBox": "",
+            "postalCode": "8000",
+            "city": "Z\u00FCrich",
             "country": "CH"
           },
           {
@@ -178827,6 +178885,8 @@
             "name": "F. Weilenmann Agroscope",
             "address": "",
             "postBox": "",
+            "postalCode": "8000",
+            "city": "Z\u00FCrich",
             "country": "CH"
           },
           {
@@ -184036,6 +184096,8 @@
             "name": "F. Weilenmann Agroscope",
             "address": "",
             "postBox": "",
+            "postalCode": "8000",
+            "city": "Z\u00FCrich",
             "country": "CH"
           },
           {
@@ -189444,6 +189506,8 @@
             "name": "F. Weilenmann Agroscope",
             "address": "",
             "postBox": "",
+            "postalCode": "8000",
+            "city": "Z\u00FCrich",
             "country": "CH"
           },
           {
@@ -189746,7 +189810,7 @@
         },
         "contacts": {
           "agent": {
-            "name": "Rudolf Dieffenbach Beerenkulturen",
+            "name": "Beerenkulturen Rudolf Dieffenbach",
             "address": "Friedhofweg 21",
             "postBox": "",
             "postalCode": "4414",
@@ -191143,6 +191207,8 @@
             "name": "F. Weilenmann Agroscope",
             "address": "",
             "postBox": "",
+            "postalCode": "8000",
+            "city": "Z\u00FCrich",
             "country": "CH"
           },
           {
@@ -192632,7 +192698,7 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "Wei 301",
-        "status": "Published",
+        "status": "Approved",
         "validFrom": "2025-11-07"
       },
       "denominations": [
@@ -192640,7 +192706,7 @@
           "denomination": "Wei 301",
           "statusHistory": [
             {
-              "status": "Published",
+              "status": "Approved",
               "validFrom": "2025-11-07"
             },
             {
@@ -206882,6 +206948,8 @@
             "name": "F. Weilenmann Agroscope",
             "address": "",
             "postBox": "",
+            "postalCode": "8000",
+            "city": "Z\u00FCrich",
             "country": "CH"
           },
           {
@@ -208021,7 +208089,7 @@
     },
     {
       "id": "e9d7ee65-3508-475e-9140-c3de0ab3c6fd",
-      "dossierStatus": "InProgress",
+      "dossierStatus": "Finalized",
       "breedersReference": "14-054-03",
       "breedingCountry": "NL",
       "cropCategory": "Fruit and berries",
@@ -208034,7 +208102,7 @@
       "currentlyRelevantDenomination": {
         "denomination": "Fardao",
         "status": "Proposed",
-        "validFrom": "2026-03-17"
+        "validFrom": "2026-04-15"
       },
       "denominations": [
         {
@@ -208042,13 +208110,13 @@
           "statusHistory": [
             {
               "status": "Proposed",
-              "validFrom": "2026-03-17"
+              "validFrom": "2026-04-15"
             }
           ]
         }
       ],
       "plantBreedersRight": {
-        "status": "None",
+        "status": "Application",
         "request": {
           "number": "26-3712",
           "entryDate": "2026-03-17"
@@ -210150,7 +210218,7 @@
         },
         "contacts": {
           "agent": {
-            "name": "Beat Lehner Obstbau / Baumschule",
+            "name": "Obstbau / Baumschule Beat Lehner",
             "address": "Ringstrasse 8",
             "postBox": "",
             "postalCode": "8552",
@@ -212068,7 +212136,7 @@
         ],
         "breeders": [
           {
-            "name": "VitaPlant AG Rob van den Beuken",
+            "name": "VitaPlant AG Amin Chaanin",
             "address": "Romanshornerstr. 39",
             "postBox": "",
             "postalCode": "8592",
@@ -212546,6 +212614,8 @@
             "name": "F. Weilenmann Agroscope",
             "address": "",
             "postBox": "",
+            "postalCode": "8000",
+            "city": "Z\u00FCrich",
             "country": "CH"
           },
           {
@@ -219716,6 +219786,8 @@
             "name": "F. Weilenmann Agroscope",
             "address": "",
             "postBox": "",
+            "postalCode": "8000",
+            "city": "Z\u00FCrich",
             "country": "CH"
           },
           {
@@ -220135,6 +220207,8 @@
             "name": "F. Weilenmann Agroscope",
             "address": "",
             "postBox": "",
+            "postalCode": "8000",
+            "city": "Z\u00FCrich",
             "country": "CH"
           },
           {
@@ -225155,7 +225229,7 @@
         },
         "contacts": {
           "agent": {
-            "name": "Rudolf Dieffenbach Beerenkulturen",
+            "name": "Beerenkulturen Rudolf Dieffenbach",
             "address": "Friedhofweg 21",
             "postBox": "",
             "postalCode": "4414",

@@ -1514,13 +1514,17 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "Lizzie",
-        "status": "Proposed",
+        "status": "Approved",
         "validFrom": "2026-03-31"
       },
       "denominations": [
         {
           "denomination": "Lizzie",
           "statusHistory": [
+            {
+              "status": "Approved",
+              "validFrom": "2026-03-31"
+            },
             {
               "status": "Proposed",
               "validFrom": "2026-03-31"
@@ -17480,7 +17484,7 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "Wuranda",
-        "status": "Published",
+        "status": "Approved",
         "validFrom": "2026-01-29"
       },
       "denominations": [
@@ -17488,7 +17492,7 @@
           "denomination": "Wuranda",
           "statusHistory": [
             {
-              "status": "Published",
+              "status": "Approved",
               "validFrom": "2026-01-29"
             },
             {
@@ -17499,10 +17503,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "26-3703",
           "entryDate": "2026-01-22"
+        },
+        "register": {
+          "number": "26.3268",
+          "grantOfProtection": "2026-06-30",
+          "maxProtectionYears": 30
         },
         "contacts": {
           "agent": {
@@ -19100,7 +19109,7 @@
         },
         "contacts": {
           "agent": {
-            "name": "Andrea Silvio Mathis Mathis Legalzone Advokatur",
+            "name": "Mathis Legalzone Advokatur Andrea Silvio Mathis",
             "address": "Basteiplatz 7",
             "postBox": "",
             "postalCode": "8001",
@@ -21226,29 +21235,34 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "UEB 47021",
-        "status": "Published",
-        "validFrom": "2026-01-27"
+        "status": "Approved",
+        "validFrom": "2026-01-28"
       },
       "denominations": [
         {
           "denomination": "UEB 47021",
           "statusHistory": [
             {
-              "status": "Published",
-              "validFrom": "2026-01-27"
+              "status": "Approved",
+              "validFrom": "2026-01-28"
             },
             {
               "status": "Proposed",
-              "validFrom": "2026-01-27"
+              "validFrom": "2026-01-28"
             }
           ]
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "26-3704",
           "entryDate": "2026-01-27"
+        },
+        "register": {
+          "number": "26.3269",
+          "grantOfProtection": "2026-06-30",
+          "maxProtectionYears": 30
         },
         "contacts": {
           "agent": {
@@ -22926,10 +22940,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "21-3410",
           "entryDate": "2021-02-08"
+        },
+        "register": {
+          "number": "26.3255",
+          "grantOfProtection": "2026-05-31",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
@@ -25157,7 +25176,7 @@
         },
         "contacts": {
           "agent": {
-            "name": "Andrea Silvio Mathis Mathis Legalzone Advokatur",
+            "name": "Mathis Legalzone Advokatur Andrea Silvio Mathis",
             "address": "Basteiplatz 7",
             "postBox": "",
             "postalCode": "8001",
@@ -28650,6 +28669,77 @@
             "postalCode": "47500",
             "city": "Saint Vite",
             "country": "FR"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1df1ea1b-df94-4399-8493-c220f3e06f79",
+      "dossierStatus": "Finalized",
+      "breedersReference": "ksg 19 a",
+      "breedingCountry": "DE",
+      "tradeNames": [
+        "Kir Rio"
+      ],
+      "cropCategory": "Fruit and berries",
+      "botanicalInformation": {
+        "family": "Rosaceae",
+        "genus": "Prunus L.",
+        "species": "Prunus avium (L.) L.",
+        "upovCode": "PRUNU_AVI"
+      },
+      "currentlyRelevantDenomination": {
+        "denomination": "KSG 19 A",
+        "status": "Proposed",
+        "validFrom": "2026-06-08"
+      },
+      "denominations": [
+        {
+          "denomination": "KSG 19 A",
+          "statusHistory": [
+            {
+              "status": "Proposed",
+              "validFrom": "2026-06-08"
+            }
+          ]
+        }
+      ],
+      "plantBreedersRight": {
+        "status": "Application",
+        "request": {
+          "number": "26-3735",
+          "entryDate": "2026-06-09"
+        },
+        "contacts": {
+          "agent": {
+            "name": "Kirker \u0026 Cie SA",
+            "address": "Rue de Gen\u00E8ve 122",
+            "postBox": "Case postale 153",
+            "postalCode": "1226",
+            "city": "Th\u00F4nex",
+            "country": "CH"
+          }
+        }
+      },
+      "contacts": {
+        "owners": [
+          {
+            "name": "Lizenzen f\u00FCr Fr\u00FCchte und Pflanzen GmbH",
+            "address": "Wolkener Weg 1",
+            "postBox": "",
+            "postalCode": "56220",
+            "city": "Bassenheim",
+            "country": "DE"
+          }
+        ],
+        "breeders": [
+          {
+            "name": "Hilmar Gr\u00E4b Lizenzen f\u00FCr Fr\u00FCchte und Pflanzen GmbH",
+            "address": "Wolkener Weg 1",
+            "postBox": "",
+            "postalCode": "56220",
+            "city": "Bassenheim",
+            "country": "DE"
           }
         ]
       }
@@ -35646,10 +35736,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "21-3405",
           "entryDate": "2021-02-08"
+        },
+        "register": {
+          "number": "26.3250",
+          "grantOfProtection": "2026-05-31",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
@@ -37314,13 +37409,17 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "Ferris",
-        "status": "Proposed",
+        "status": "Published",
         "validFrom": "2026-04-15"
       },
       "denominations": [
         {
           "denomination": "Ferris",
           "statusHistory": [
+            {
+              "status": "Published",
+              "validFrom": "2026-04-15"
+            },
             {
               "status": "Proposed",
               "validFrom": "2026-04-15"
@@ -39835,10 +39934,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "23-3607",
           "entryDate": "2023-11-17"
+        },
+        "register": {
+          "number": "26.3264",
+          "grantOfProtection": "2026-06-30",
+          "maxProtectionYears": 30
         },
         "contacts": {
           "agent": {
@@ -41528,10 +41632,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "25-3661",
           "entryDate": "2025-04-07"
+        },
+        "register": {
+          "number": "26.3258",
+          "grantOfProtection": "2026-05-31",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
@@ -44751,13 +44860,17 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "Aimee",
-        "status": "Proposed",
+        "status": "Approved",
         "validFrom": "2026-03-31"
       },
       "denominations": [
         {
           "denomination": "Aimee",
           "statusHistory": [
+            {
+              "status": "Approved",
+              "validFrom": "2026-03-31"
+            },
             {
               "status": "Proposed",
               "validFrom": "2026-03-31"
@@ -45777,7 +45890,7 @@
         },
         "contacts": {
           "agent": {
-            "name": "Andrea Silvio Mathis Mathis Legalzone Advokatur",
+            "name": "Mathis Legalzone Advokatur Andrea Silvio Mathis",
             "address": "Basteiplatz 7",
             "postBox": "",
             "postalCode": "8001",
@@ -48505,10 +48618,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "21-3404",
           "entryDate": "2021-02-08"
+        },
+        "register": {
+          "number": "26.3249",
+          "grantOfProtection": "2026-05-31",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
@@ -51013,13 +51131,17 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "Fonia",
-        "status": "Proposed",
+        "status": "Approved",
         "validFrom": "2026-03-31"
       },
       "denominations": [
         {
           "denomination": "Fonia",
           "statusHistory": [
+            {
+              "status": "Approved",
+              "validFrom": "2026-03-31"
+            },
             {
               "status": "Proposed",
               "validFrom": "2026-03-31"
@@ -51419,13 +51541,17 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "Libra",
-        "status": "Proposed",
+        "status": "Approved",
         "validFrom": "2026-03-31"
       },
       "denominations": [
         {
           "denomination": "Libra",
           "statusHistory": [
+            {
+              "status": "Approved",
+              "validFrom": "2026-03-31"
+            },
             {
               "status": "Proposed",
               "validFrom": "2026-03-31"
@@ -56130,13 +56256,17 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "8S5505",
-        "status": "Proposed",
+        "status": "Approved",
         "validFrom": "2026-02-17"
       },
       "denominations": [
         {
           "denomination": "8S5505",
           "statusHistory": [
+            {
+              "status": "Approved",
+              "validFrom": "2026-02-17"
+            },
             {
               "status": "Proposed",
               "validFrom": "2026-02-17"
@@ -56541,10 +56671,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "21-3408",
           "entryDate": "2021-02-08"
+        },
+        "register": {
+          "number": "26.3253",
+          "grantOfProtection": "2026-05-31",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
@@ -59813,13 +59948,17 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "Isadora",
-        "status": "Proposed",
+        "status": "Approved",
         "validFrom": "2021-04-16"
       },
       "denominations": [
         {
           "denomination": "Isadora",
           "statusHistory": [
+            {
+              "status": "Approved",
+              "validFrom": "2021-04-16"
+            },
             {
               "status": "Proposed",
               "validFrom": "2021-04-16"
@@ -59828,10 +59967,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "21-3434",
           "entryDate": "2021-04-19"
+        },
+        "register": {
+          "number": "26.3262",
+          "grantOfProtection": "2026-06-30",
+          "maxProtectionYears": 30
         },
         "contacts": {
           "agent": {
@@ -60245,7 +60389,7 @@
         },
         "contacts": {
           "agent": {
-            "name": "Andrea Silvio Mathis Mathis Legalzone Advokatur",
+            "name": "Mathis Legalzone Advokatur Andrea Silvio Mathis",
             "address": "Basteiplatz 7",
             "postBox": "",
             "postalCode": "8001",
@@ -62862,7 +63006,7 @@
         },
         "contacts": {
           "agent": {
-            "name": "Andrea Silvio Mathis Mathis Legalzone Advokatur",
+            "name": "Mathis Legalzone Advokatur Andrea Silvio Mathis",
             "address": "Basteiplatz 7",
             "postBox": "",
             "postalCode": "8001",
@@ -67456,7 +67600,7 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "Damona",
-        "status": "Published",
+        "status": "Approved",
         "validFrom": "2026-01-16"
       },
       "denominations": [
@@ -67464,7 +67608,7 @@
           "denomination": "Damona",
           "statusHistory": [
             {
-              "status": "Published",
+              "status": "Approved",
               "validFrom": "2026-01-16"
             },
             {
@@ -67475,10 +67619,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "25-3700",
           "entryDate": "2025-12-19"
+        },
+        "register": {
+          "number": "26.3265",
+          "grantOfProtection": "2026-06-30",
+          "maxProtectionYears": 30
         },
         "contacts": {
           "agent": {
@@ -72393,7 +72542,7 @@
         },
         "contacts": {
           "agent": {
-            "name": "Andrea Silvio Mathis Mathis Legalzone Advokatur",
+            "name": "Mathis Legalzone Advokatur Andrea Silvio Mathis",
             "address": "Basteiplatz 7",
             "postBox": "",
             "postalCode": "8001",
@@ -72917,16 +73066,20 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "Siram\u00E9",
-        "status": "Published",
-        "validFrom": "2025-12-17"
+        "status": "Approved",
+        "validFrom": "2026-04-30"
       },
       "denominations": [
         {
           "denomination": "Siram\u00E9",
           "statusHistory": [
             {
+              "status": "Approved",
+              "validFrom": "2026-04-30"
+            },
+            {
               "status": "Published",
-              "validFrom": "2025-12-17"
+              "validFrom": "2026-01-31"
             },
             {
               "status": "Proposed",
@@ -78962,13 +79115,17 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "Aisha",
-        "status": "Proposed",
+        "status": "Approved",
         "validFrom": "2026-03-31"
       },
       "denominations": [
         {
           "denomination": "Aisha",
           "statusHistory": [
+            {
+              "status": "Approved",
+              "validFrom": "2026-03-31"
+            },
             {
               "status": "Proposed",
               "validFrom": "2026-03-31"
@@ -79202,13 +79359,17 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "Grovine",
-        "status": "Proposed",
+        "status": "Approved",
         "validFrom": "2026-02-03"
       },
       "denominations": [
         {
           "denomination": "Grovine",
           "statusHistory": [
+            {
+              "status": "Approved",
+              "validFrom": "2026-02-03"
+            },
             {
               "status": "Proposed",
               "validFrom": "2026-02-03"
@@ -80894,11 +81055,11 @@
       "contacts": {
         "owners": [
           {
-            "name": "Royakkers Explore",
-            "address": "Heinestraat 5",
+            "name": "Berry BE Research",
+            "address": "Diamantlaan 24",
             "postBox": "",
-            "postalCode": "3640",
-            "city": "Kinrooi",
+            "postalCode": "1030",
+            "city": "Brussel",
             "country": "BE"
           }
         ],
@@ -82555,7 +82716,7 @@
     },
     {
       "id": "5d55d807-f22c-46a5-3339-9ee0ff333519",
-      "dossierStatus": "InProgress",
+      "dossierStatus": "Finalized",
       "breedingCountry": "IT",
       "cropCategory": "Fruit and berries",
       "botanicalInformation": {
@@ -83397,7 +83558,7 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Withdrawn",
         "request": {
           "number": "25-3684",
           "entryDate": "2025-07-09"
@@ -84605,7 +84766,7 @@
         },
         "contacts": {
           "agent": {
-            "name": "Andrea Silvio Mathis Mathis Legalzone Advokatur",
+            "name": "Mathis Legalzone Advokatur Andrea Silvio Mathis",
             "address": "Basteiplatz 7",
             "postBox": "",
             "postalCode": "8001",
@@ -92718,10 +92879,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "25-3662",
           "entryDate": "2025-04-07"
+        },
+        "register": {
+          "number": "26.3259",
+          "grantOfProtection": "2026-05-31",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
@@ -98334,10 +98500,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "22-3542",
           "entryDate": "2022-09-09"
+        },
+        "register": {
+          "number": "26.3257",
+          "grantOfProtection": "2026-05-31",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
@@ -102057,7 +102228,7 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "Dioniso",
-        "status": "Published",
+        "status": "Approved",
         "validFrom": "2026-01-16"
       },
       "denominations": [
@@ -102065,7 +102236,7 @@
           "denomination": "Dioniso",
           "statusHistory": [
             {
-              "status": "Published",
+              "status": "Approved",
               "validFrom": "2026-01-16"
             },
             {
@@ -102076,10 +102247,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "25-3701",
           "entryDate": "2025-12-19"
+        },
+        "register": {
+          "number": "26.3266",
+          "grantOfProtection": "2026-06-30",
+          "maxProtectionYears": 30
         },
         "contacts": {
           "agent": {
@@ -103604,6 +103780,77 @@
           },
           {
             "name": "Nils Klemm",
+            "address": "Hanf\u00E4cker 10",
+            "postBox": "",
+            "postalCode": "70378",
+            "city": "Stuttgart",
+            "country": "DE"
+          }
+        ]
+      }
+    },
+    {
+      "id": "768b8dca-6ec1-4a9b-8c20-1e56079b4497",
+      "dossierStatus": "Finalized",
+      "breedingCountry": "DE",
+      "cropCategory": "Ornamental and medicinal plants",
+      "botanicalInformation": {
+        "family": "Geraniaceae",
+        "genus": "Pelargonium L\u0027H\u00E9r. ex Ait.",
+        "species": "Pelargonium zonale (L.) L\u0027H\u00E9r.",
+        "upovCode": "PELAR_ZON"
+      },
+      "currentlyRelevantDenomination": {
+        "denomination": "KLEPZ 25942",
+        "status": "Published",
+        "validFrom": "2026-05-26"
+      },
+      "denominations": [
+        {
+          "denomination": "KLEPZ 25942",
+          "statusHistory": [
+            {
+              "status": "Published",
+              "validFrom": "2026-05-26"
+            },
+            {
+              "status": "Proposed",
+              "validFrom": "2026-05-26"
+            }
+          ]
+        }
+      ],
+      "plantBreedersRight": {
+        "status": "Application",
+        "request": {
+          "number": "26-3732",
+          "entryDate": "2026-05-18"
+        },
+        "contacts": {
+          "agent": {
+            "name": "Beck AG",
+            "address": "Feldmattstrasse 29",
+            "postBox": "",
+            "postalCode": "6032",
+            "city": "Emmen",
+            "country": "CH"
+          }
+        }
+      },
+      "contacts": {
+        "owners": [
+          {
+            "name": "Selecta Klemm GmbH \u0026 Co KG",
+            "address": "Hanf\u00E4cker 10",
+            "postBox": "",
+            "postalCode": "70378",
+            "city": "Stuttgart",
+            "country": "DE"
+          }
+        ],
+        "breeders": [
+          {
+            "name": "Nina Neu c/o Klemm \u002B Sohn GmbH \u0026 Co KG",
             "address": "Hanf\u00E4cker 10",
             "postBox": "",
             "postalCode": "70378",
@@ -110973,7 +111220,7 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "Starvine",
-        "status": "Published",
+        "status": "Approved",
         "validFrom": "2026-01-30"
       },
       "denominations": [
@@ -110981,7 +111228,7 @@
           "denomination": "Starvine",
           "statusHistory": [
             {
-              "status": "Published",
+              "status": "Approved",
               "validFrom": "2026-01-30"
             },
             {
@@ -110992,10 +111239,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "26-3706",
           "entryDate": "2026-01-30"
+        },
+        "register": {
+          "number": "26.3271",
+          "grantOfProtection": "2026-06-30",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
@@ -120623,13 +120875,17 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "Estebana",
-        "status": "Proposed",
+        "status": "Approved",
         "validFrom": "2026-03-31"
       },
       "denominations": [
         {
           "denomination": "Estebana",
           "statusHistory": [
+            {
+              "status": "Approved",
+              "validFrom": "2026-03-31"
+            },
             {
               "status": "Proposed",
               "validFrom": "2026-03-31"
@@ -134127,7 +134383,7 @@
         },
         "contacts": {
           "agent": {
-            "name": "Andrea Silvio Mathis Mathis Legalzone Advokatur",
+            "name": "Mathis Legalzone Advokatur Andrea Silvio Mathis",
             "address": "Basteiplatz 7",
             "postBox": "",
             "postalCode": "8001",
@@ -134705,13 +134961,17 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "Castor",
-        "status": "Proposed",
+        "status": "Approved",
         "validFrom": "2026-03-31"
       },
       "denominations": [
         {
           "denomination": "Castor",
           "statusHistory": [
+            {
+              "status": "Approved",
+              "validFrom": "2026-03-31"
+            },
             {
               "status": "Proposed",
               "validFrom": "2026-03-31"
@@ -135229,6 +135489,97 @@
             "postalCode": "01279",
             "city": "Dresden",
             "country": "DE"
+          }
+        ]
+      }
+    },
+    {
+      "id": "97d36c89-d4d4-4b1e-a084-0849be71587d",
+      "dossierStatus": "Finalized",
+      "breedersReference": "B48C251",
+      "breedingCountry": "IT",
+      "tradeNames": [
+        "Dora"
+      ],
+      "cropCategory": "Fruit and berries",
+      "botanicalInformation": {
+        "family": "Rosaceae",
+        "genus": "Malus Mill.",
+        "species": "Malus domestica (Suckow) Borkh.",
+        "upovCode": "MALUS_DOM"
+      },
+      "currentlyRelevantDenomination": {
+        "denomination": "MD02UNIBO",
+        "status": "Published",
+        "validFrom": "2026-05-29"
+      },
+      "denominations": [
+        {
+          "denomination": "MD02UNIBO",
+          "statusHistory": [
+            {
+              "status": "Published",
+              "validFrom": "2026-05-29"
+            },
+            {
+              "status": "Proposed",
+              "validFrom": "2026-05-29"
+            }
+          ]
+        }
+      ],
+      "plantBreedersRight": {
+        "status": "Application",
+        "request": {
+          "number": "26-3734",
+          "entryDate": "2026-06-01"
+        },
+        "contacts": {
+          "agent": {
+            "name": "Isler \u0026 Pedrazzini AG",
+            "address": "Giessh\u00FCbelstrasse 45",
+            "postBox": "Postfach 1772",
+            "postalCode": "8027",
+            "city": "Z\u00FCrich",
+            "country": "CH"
+          }
+        }
+      },
+      "contacts": {
+        "owners": [
+          {
+            "name": "Alma Mater Studiorum",
+            "address": "Via Zamboni 33",
+            "postBox": "",
+            "postalCode": "40126",
+            "city": "Bologna",
+            "country": "IT"
+          }
+        ],
+        "breeders": [
+          {
+            "name": "Roberto Gregori Alma Mater Studiorum",
+            "address": "Viale Fanin 46",
+            "postBox": "",
+            "postalCode": "40127",
+            "city": "Bologna",
+            "country": "IT"
+          },
+          {
+            "name": "Silviero Sansavini Alma Mater Studiorum",
+            "address": "Viale Fanin 46",
+            "postBox": "",
+            "postalCode": "40127",
+            "city": "Bologna",
+            "country": "IT"
+          },
+          {
+            "name": "Stefano Tartarini Alma Mater Studiorum",
+            "address": "Viale Fanin 46",
+            "postBox": "",
+            "postalCode": "40127",
+            "city": "Bologna",
+            "country": "IT"
           }
         ]
       }
@@ -139166,7 +139517,7 @@
         },
         "contacts": {
           "agent": {
-            "name": "Andrea Silvio Mathis Mathis Legalzone Advokatur",
+            "name": "Mathis Legalzone Advokatur Andrea Silvio Mathis",
             "address": "Basteiplatz 7",
             "postBox": "",
             "postalCode": "8001",
@@ -139836,6 +140187,74 @@
             "postBox": "",
             "city": "Washington 99164-T045 USA",
             "country": "US"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9b8a726e-07ad-468d-a55a-41ddff974fe9",
+      "dossierStatus": "Finalized",
+      "breedersReference": "02.15.31 CE - ASF0908",
+      "breedingCountry": "FR",
+      "cropCategory": "Fruit and berries",
+      "botanicalInformation": {
+        "family": "Rosaceae",
+        "genus": "Prunus L.",
+        "species": "Prunus avium (L.) L.",
+        "upovCode": "PRUNU_AVI"
+      },
+      "currentlyRelevantDenomination": {
+        "denomination": "Rosalolam",
+        "status": "Proposed",
+        "validFrom": "2026-07-01"
+      },
+      "denominations": [
+        {
+          "denomination": "Rosalolam",
+          "statusHistory": [
+            {
+              "status": "Proposed",
+              "validFrom": "2026-07-01"
+            }
+          ]
+        }
+      ],
+      "plantBreedersRight": {
+        "status": "Application",
+        "request": {
+          "number": "26-3730",
+          "entryDate": "2026-05-13"
+        },
+        "contacts": {
+          "agent": {
+            "name": "Service de l\u0027agriculture",
+            "address": "Av. Maurice-Troillet 260",
+            "postBox": "",
+            "postalCode": "1950",
+            "city": "Sion",
+            "country": "CH"
+          }
+        }
+      },
+      "contacts": {
+        "owners": [
+          {
+            "name": "Agro S\u00E9lection Fruits S.A.S.",
+            "address": "Route d\u0027Alenya 75",
+            "postBox": "Case postale 70001",
+            "postalCode": "66201",
+            "city": "Elne Cedex",
+            "country": "FR"
+          }
+        ],
+        "breeders": [
+          {
+            "name": "Agro S\u00E9lection Fruits S.A.S.",
+            "address": "Route d\u0027Alenya 75",
+            "postBox": "Case postale 70001",
+            "postalCode": "66201",
+            "city": "Elne Cedex",
+            "country": "FR"
           }
         ]
       }
@@ -141136,7 +141555,7 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "Elvion",
-        "status": "Published",
+        "status": "Approved",
         "validFrom": "2026-01-30"
       },
       "denominations": [
@@ -141144,7 +141563,7 @@
           "denomination": "Elvion",
           "statusHistory": [
             {
-              "status": "Published",
+              "status": "Approved",
               "validFrom": "2026-01-30"
             },
             {
@@ -141611,10 +142030,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "21-3407",
           "entryDate": "2021-02-08"
+        },
+        "register": {
+          "number": "26.3252",
+          "grantOfProtection": "2026-05-31",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
@@ -144725,13 +145149,17 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "Lady Avalon",
-        "status": "Proposed",
+        "status": "Approved",
         "validFrom": "2026-03-24"
       },
       "denominations": [
         {
           "denomination": "Lady Avalon",
           "statusHistory": [
+            {
+              "status": "Approved",
+              "validFrom": "2026-03-24"
+            },
             {
               "status": "Proposed",
               "validFrom": "2026-03-24"
@@ -144952,13 +145380,17 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "Finette",
-        "status": "Proposed",
+        "status": "Published",
         "validFrom": "2026-04-15"
       },
       "denominations": [
         {
           "denomination": "Finette",
           "statusHistory": [
+            {
+              "status": "Published",
+              "validFrom": "2026-04-15"
+            },
             {
               "status": "Proposed",
               "validFrom": "2026-04-15"
@@ -145786,13 +146218,17 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "Country",
-        "status": "Proposed",
+        "status": "Approved",
         "validFrom": "2026-03-24"
       },
       "denominations": [
         {
           "denomination": "Country",
           "statusHistory": [
+            {
+              "status": "Approved",
+              "validFrom": "2026-03-24"
+            },
             {
               "status": "Proposed",
               "validFrom": "2026-03-24"
@@ -145927,6 +146363,77 @@
             "postBox": "",
             "postalCode": "25365",
             "city": "Klein Offenseth-Sparrieshoop",
+            "country": "DE"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a1cc6c24-fef5-4829-8d23-c65879e61f9a",
+      "dossierStatus": "Finalized",
+      "breedingCountry": "DE",
+      "cropCategory": "Ornamental and medicinal plants",
+      "botanicalInformation": {
+        "family": "Geraniaceae",
+        "genus": "Pelargonium L\u0027H\u00E9r. ex Ait.",
+        "species": "Pelargonium zonale (L.) L\u0027H\u00E9r.",
+        "upovCode": "PELAR_ZON"
+      },
+      "currentlyRelevantDenomination": {
+        "denomination": "KLEPZ 25935",
+        "status": "Published",
+        "validFrom": "2026-05-26"
+      },
+      "denominations": [
+        {
+          "denomination": "KLEPZ 25935",
+          "statusHistory": [
+            {
+              "status": "Published",
+              "validFrom": "2026-05-26"
+            },
+            {
+              "status": "Proposed",
+              "validFrom": "2026-05-26"
+            }
+          ]
+        }
+      ],
+      "plantBreedersRight": {
+        "status": "Application",
+        "request": {
+          "number": "26-3731",
+          "entryDate": "2026-05-18"
+        },
+        "contacts": {
+          "agent": {
+            "name": "Beck AG",
+            "address": "Feldmattstrasse 29",
+            "postBox": "",
+            "postalCode": "6032",
+            "city": "Emmen",
+            "country": "CH"
+          }
+        }
+      },
+      "contacts": {
+        "owners": [
+          {
+            "name": "Selecta Klemm GmbH \u0026 Co KG",
+            "address": "Hanf\u00E4cker 10",
+            "postBox": "",
+            "postalCode": "70378",
+            "city": "Stuttgart",
+            "country": "DE"
+          }
+        ],
+        "breeders": [
+          {
+            "name": "Nina Neu c/o Klemm \u002B Sohn GmbH \u0026 Co KG",
+            "address": "Hanf\u00E4cker 10",
+            "postBox": "",
+            "postalCode": "70378",
+            "city": "Stuttgart",
             "country": "DE"
           }
         ]
@@ -149301,7 +149808,7 @@
         },
         "contacts": {
           "agent": {
-            "name": "Andrea Silvio Mathis Mathis Legalzone Advokatur",
+            "name": "Mathis Legalzone Advokatur Andrea Silvio Mathis",
             "address": "Basteiplatz 7",
             "postBox": "",
             "postalCode": "8001",
@@ -149454,10 +149961,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "22-3528",
           "entryDate": "2022-06-15"
+        },
+        "register": {
+          "number": "26.3263",
+          "grantOfProtection": "2026-06-30",
+          "maxProtectionYears": 30
         },
         "contacts": {
           "agent": {
@@ -156641,13 +157153,17 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "La Vida",
-        "status": "Proposed",
+        "status": "Approved",
         "validFrom": "2026-03-31"
       },
       "denominations": [
         {
           "denomination": "La Vida",
           "statusHistory": [
+            {
+              "status": "Approved",
+              "validFrom": "2026-03-31"
+            },
             {
               "status": "Proposed",
               "validFrom": "2026-03-31"
@@ -158604,7 +159120,7 @@
         },
         "contacts": {
           "agent": {
-            "name": "Andrea Silvio Mathis Mathis Legalzone Advokatur",
+            "name": "Mathis Legalzone Advokatur Andrea Silvio Mathis",
             "address": "Basteiplatz 7",
             "postBox": "",
             "postalCode": "8001",
@@ -163125,13 +163641,17 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "NS 15 14",
-        "status": "Proposed",
+        "status": "Approved",
         "validFrom": "2021-04-01"
       },
       "denominations": [
         {
           "denomination": "NS 15 14",
           "statusHistory": [
+            {
+              "status": "Approved",
+              "validFrom": "2021-04-01"
+            },
             {
               "status": "Proposed",
               "validFrom": "2021-04-01"
@@ -163140,10 +163660,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "21-3426",
           "entryDate": "2021-03-29"
+        },
+        "register": {
+          "number": "26.3256",
+          "grantOfProtection": "2026-05-31",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
@@ -163795,10 +164320,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "25-3679",
           "entryDate": "2025-06-25"
+        },
+        "register": {
+          "number": "26.3260",
+          "grantOfProtection": "2026-05-31",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
@@ -169384,10 +169914,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "21-3406",
           "entryDate": "2021-02-08"
+        },
+        "register": {
+          "number": "26.3251",
+          "grantOfProtection": "2026-05-31",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
@@ -171063,13 +171598,17 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "Vertion",
-        "status": "Proposed",
+        "status": "Cancelled",
         "validFrom": "2026-02-03"
       },
       "denominations": [
         {
           "denomination": "Vertion",
           "statusHistory": [
+            {
+              "status": "Cancelled",
+              "validFrom": "2026-02-03"
+            },
             {
               "status": "Proposed",
               "validFrom": "2026-02-03"
@@ -176562,13 +177101,17 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "Storm",
-        "status": "Proposed",
+        "status": "Approved",
         "validFrom": "2026-03-31"
       },
       "denominations": [
         {
           "denomination": "Storm",
           "statusHistory": [
+            {
+              "status": "Approved",
+              "validFrom": "2026-03-31"
+            },
             {
               "status": "Proposed",
               "validFrom": "2026-03-31"
@@ -178412,13 +178955,17 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "Travolta",
-        "status": "Proposed",
+        "status": "Approved",
         "validFrom": "2026-03-31"
       },
       "denominations": [
         {
           "denomination": "Travolta",
           "statusHistory": [
+            {
+              "status": "Approved",
+              "validFrom": "2026-03-31"
+            },
             {
               "status": "Proposed",
               "validFrom": "2026-03-31"
@@ -181771,10 +182318,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "21-3400",
           "entryDate": "2021-01-22"
+        },
+        "register": {
+          "number": "26.3248",
+          "grantOfProtection": "2026-05-31",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
@@ -192611,6 +193163,77 @@
       }
     },
     {
+      "id": "d73a39d0-60f6-4148-9622-92966c8024dc",
+      "dossierStatus": "Finalized",
+      "breedingCountry": "DE",
+      "cropCategory": "Ornamental and medicinal plants",
+      "botanicalInformation": {
+        "family": "Geraniaceae",
+        "genus": "Pelargonium L\u0027H\u00E9r. ex Ait.",
+        "species": "Pelargonium peltatum (L.) L\u0027H\u00E9r.",
+        "upovCode": "PELAR_PEL"
+      },
+      "currentlyRelevantDenomination": {
+        "denomination": "KLEPP 26975",
+        "status": "Published",
+        "validFrom": "2026-05-26"
+      },
+      "denominations": [
+        {
+          "denomination": "KLEPP 26975",
+          "statusHistory": [
+            {
+              "status": "Published",
+              "validFrom": "2026-05-26"
+            },
+            {
+              "status": "Proposed",
+              "validFrom": "2026-05-26"
+            }
+          ]
+        }
+      ],
+      "plantBreedersRight": {
+        "status": "Application",
+        "request": {
+          "number": "26-3733",
+          "entryDate": "2026-05-18"
+        },
+        "contacts": {
+          "agent": {
+            "name": "Beck AG",
+            "address": "Feldmattstrasse 29",
+            "postBox": "",
+            "postalCode": "6032",
+            "city": "Emmen",
+            "country": "CH"
+          }
+        }
+      },
+      "contacts": {
+        "owners": [
+          {
+            "name": "Selecta Klemm GmbH \u0026 Co KG",
+            "address": "Hanf\u00E4cker 10",
+            "postBox": "",
+            "postalCode": "70378",
+            "city": "Stuttgart",
+            "country": "DE"
+          }
+        ],
+        "breeders": [
+          {
+            "name": "Nina Neu c/o Klemm \u002B Sohn GmbH \u0026 Co KG",
+            "address": "Hanf\u00E4cker 10",
+            "postBox": "",
+            "postalCode": "70378",
+            "city": "Stuttgart",
+            "country": "DE"
+          }
+        ]
+      }
+    },
+    {
       "id": "d744e3cd-f87a-2633-9dd3-fb0d1371c001",
       "dossierStatus": "InProgress",
       "cropCategory": "Fruit and berries",
@@ -195236,7 +195859,7 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "Taycan",
-        "status": "None",
+        "status": "Approved",
         "validFrom": "2026-03-13"
       },
       "denominations": [
@@ -195244,7 +195867,11 @@
           "denomination": "Taycan",
           "statusHistory": [
             {
-              "status": "None",
+              "status": "Approved",
+              "validFrom": "2026-03-13"
+            },
+            {
+              "status": "Proposed",
               "validFrom": "2026-03-13"
             }
           ]
@@ -195414,7 +196041,7 @@
         },
         "contacts": {
           "agent": {
-            "name": "Andrea Silvio Mathis Mathis Legalzone Advokatur",
+            "name": "Mathis Legalzone Advokatur Andrea Silvio Mathis",
             "address": "Basteiplatz 7",
             "postBox": "",
             "postalCode": "8001",
@@ -195704,13 +196331,17 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "Invictus",
-        "status": "Proposed",
+        "status": "Approved",
         "validFrom": "2026-03-31"
       },
       "denominations": [
         {
           "denomination": "Invictus",
           "statusHistory": [
+            {
+              "status": "Approved",
+              "validFrom": "2026-03-31"
+            },
             {
               "status": "Proposed",
               "validFrom": "2026-03-31"
@@ -200069,6 +200700,90 @@
       }
     },
     {
+      "id": "dffdd6aa-9527-4434-92e7-90bd9b62ada1",
+      "dossierStatus": "Finalized",
+      "breedersReference": "UEB 5586/1",
+      "breedingCountry": "CZ",
+      "cropCategory": "Fruit and berries",
+      "botanicalInformation": {
+        "family": "Rosaceae",
+        "genus": "Malus Mill.",
+        "species": "Malus domestica (Suckow) Borkh.",
+        "upovCode": "MALUS_DOM"
+      },
+      "currentlyRelevantDenomination": {
+        "denomination": "UEB 55861",
+        "status": "Proposed",
+        "validFrom": "2026-07-01"
+      },
+      "denominations": [
+        {
+          "denomination": "UEB 55861",
+          "statusHistory": [
+            {
+              "status": "Proposed",
+              "validFrom": "2026-07-01"
+            }
+          ]
+        }
+      ],
+      "plantBreedersRight": {
+        "status": "Application",
+        "request": {
+          "number": "26-3736",
+          "entryDate": "2026-06-11"
+        },
+        "contacts": {
+          "agent": {
+            "name": "Robustplant GmbH Erich Dickenmann",
+            "address": "B\u00E4chistrasse 1",
+            "postBox": "",
+            "postalCode": "8566",
+            "city": "Ellighausen",
+            "country": "CH"
+          }
+        }
+      },
+      "contacts": {
+        "owners": [
+          {
+            "name": "Institute of Experimental Botany",
+            "address": "Rozvojov\u00E1 263",
+            "postBox": "",
+            "postalCode": "165 02",
+            "city": "Praha 6",
+            "country": "CZ"
+          }
+        ],
+        "breeders": [
+          {
+            "name": "Dimitrij Tyc Institute of Experimental Botany",
+            "address": "Rozvojov\u00E1 263",
+            "postBox": "",
+            "postalCode": "165 02",
+            "city": "Praha 6",
+            "country": "CZ"
+          },
+          {
+            "name": "Jan Zima Institute of Experimental Botany",
+            "address": "Rozvojov\u00E1 263",
+            "postBox": "",
+            "postalCode": "165 02",
+            "city": "Praha 6",
+            "country": "CZ"
+          },
+          {
+            "name": "Radek Cerny Institute of Experimental Botany",
+            "address": "Rozvojov\u00E1 263",
+            "postBox": "",
+            "postalCode": "165 02",
+            "city": "Praha 6",
+            "country": "CZ"
+          }
+        ]
+      }
+    },
+    {
       "id": "e0082563-c04c-ebb8-a893-0e7e8c0da4c0",
       "dossierStatus": "Finalized",
       "breedersReference": "CH111.16644",
@@ -201455,10 +202170,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "21-3409",
           "entryDate": "2021-02-08"
+        },
+        "register": {
+          "number": "26.3254",
+          "grantOfProtection": "2026-05-31",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
@@ -203014,6 +203734,77 @@
       }
     },
     {
+      "id": "e3195c08-9223-4dfd-a406-ed7ca51fb763",
+      "dossierStatus": "InProgress",
+      "breedersReference": "abb 138",
+      "breedingCountry": "NL",
+      "tradeNames": [
+        "Neema"
+      ],
+      "cropCategory": "Fruit and berries",
+      "botanicalInformation": {
+        "family": "Rosaceae",
+        "genus": "Rubus L.",
+        "species": "Rubus idaeus L.",
+        "upovCode": "RUBUS_IDA"
+      },
+      "currentlyRelevantDenomination": {
+        "denomination": "ABB 138",
+        "status": "Proposed",
+        "validFrom": "2026-06-24"
+      },
+      "denominations": [
+        {
+          "denomination": "ABB 138",
+          "statusHistory": [
+            {
+              "status": "Proposed",
+              "validFrom": "2026-06-24"
+            }
+          ]
+        }
+      ],
+      "plantBreedersRight": {
+        "status": "None",
+        "request": {
+          "number": "26-3737",
+          "entryDate": "2026-06-24"
+        },
+        "contacts": {
+          "agent": {
+            "name": "CAA Etudes et Services SA Guillermo Garcia Corral",
+            "address": "Rue de Fribourg 8",
+            "postBox": "",
+            "postalCode": "1800",
+            "city": "Vevey",
+            "country": "CH"
+          }
+        }
+      },
+      "contacts": {
+        "owners": [
+          {
+            "name": "Allberry B.V.",
+            "address": "Architronlaan 1",
+            "postBox": "",
+            "postalCode": "5321",
+            "city": "JJ Hedel",
+            "country": "NL"
+          }
+        ],
+        "breeders": [
+          {
+            "name": "Niels Arts",
+            "address": "Kerkweg 28",
+            "postBox": "",
+            "postalCode": "1432 EJ",
+            "city": "Aalsmeer",
+            "country": "NL"
+          }
+        ]
+      }
+    },
+    {
       "id": "e31ca032-5f19-d2e1-5053-11d79f34e382",
       "dossierStatus": "InProgress",
       "breedingCountry": "NL",
@@ -203829,29 +204620,34 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "Camelot",
-        "status": "Published",
-        "validFrom": "2026-01-27"
+        "status": "Approved",
+        "validFrom": "2026-01-28"
       },
       "denominations": [
         {
           "denomination": "Camelot",
           "statusHistory": [
             {
-              "status": "Published",
-              "validFrom": "2026-01-27"
+              "status": "Approved",
+              "validFrom": "2026-01-28"
             },
             {
               "status": "Proposed",
-              "validFrom": "2026-01-27"
+              "validFrom": "2026-01-28"
             }
           ]
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "26-3705",
           "entryDate": "2026-01-27"
+        },
+        "register": {
+          "number": "26.3270",
+          "grantOfProtection": "2026-06-30",
+          "maxProtectionYears": 30
         },
         "contacts": {
           "agent": {
@@ -208101,13 +208897,17 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "Fardao",
-        "status": "Proposed",
+        "status": "Published",
         "validFrom": "2026-04-15"
       },
       "denominations": [
         {
           "denomination": "Fardao",
           "statusHistory": [
+            {
+              "status": "Published",
+              "validFrom": "2026-04-15"
+            },
             {
               "status": "Proposed",
               "validFrom": "2026-04-15"
@@ -218706,10 +219506,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "25-3680",
           "entryDate": "2025-06-30"
+        },
+        "register": {
+          "number": "26.3261",
+          "grantOfProtection": "2026-05-31",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
@@ -222222,13 +223027,17 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "SH C 2030",
-        "status": "Proposed",
+        "status": "Approved",
         "validFrom": "2026-03-31"
       },
       "denominations": [
         {
           "denomination": "SH C 2030",
           "statusHistory": [
+            {
+              "status": "Approved",
+              "validFrom": "2026-03-31"
+            },
             {
               "status": "Proposed",
               "validFrom": "2026-03-31"
@@ -224982,7 +225791,7 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "FL 17 15 86",
-        "status": "Published",
+        "status": "Approved",
         "validFrom": "2026-01-16"
       },
       "denominations": [
@@ -224990,7 +225799,7 @@
           "denomination": "FL 17 15 86",
           "statusHistory": [
             {
-              "status": "Published",
+              "status": "Approved",
               "validFrom": "2026-01-16"
             },
             {
@@ -225001,14 +225810,19 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "26-3702",
           "entryDate": "2026-01-13"
         },
+        "register": {
+          "number": "26.3267",
+          "grantOfProtection": "2026-06-30",
+          "maxProtectionYears": 25
+        },
         "contacts": {
           "agent": {
-            "name": "Andrea Silvio Mathis Mathis Legalzone Advokatur",
+            "name": "Mathis Legalzone Advokatur Andrea Silvio Mathis",
             "address": "Basteiplatz 7",
             "postBox": "",
             "postalCode": "8001",
@@ -225351,13 +226165,17 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "Sonette",
-        "status": "Proposed",
+        "status": "Approved",
         "validFrom": "2026-03-19"
       },
       "denominations": [
         {
           "denomination": "Sonette",
           "statusHistory": [
+            {
+              "status": "Approved",
+              "validFrom": "2026-03-19"
+            },
             {
               "status": "Proposed",
               "validFrom": "2026-03-19"

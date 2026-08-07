@@ -20584,10 +20584,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "24-3644",
           "entryDate": "2024-11-06"
+        },
+        "register": {
+          "number": "26.3274",
+          "grantOfProtection": "2026-07-31",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
@@ -35459,6 +35464,74 @@
       }
     },
     {
+      "id": "24af210f-2eb8-4c49-b252-e3870d8f60bd",
+      "dossierStatus": "Finalized",
+      "breedersReference": "19-161-08",
+      "breedingCountry": "NL",
+      "cropCategory": "Fruit and berries",
+      "botanicalInformation": {
+        "family": "Rosaceae",
+        "genus": "Fragaria L.",
+        "species": "Fragaria xananassa Duchesne ex Rozier",
+        "upovCode": "FRAGA_ANA"
+      },
+      "currentlyRelevantDenomination": {
+        "denomination": "Ferosa",
+        "status": "Proposed",
+        "validFrom": "2026-07-13"
+      },
+      "denominations": [
+        {
+          "denomination": "Ferosa",
+          "statusHistory": [
+            {
+              "status": "Proposed",
+              "validFrom": "2026-07-13"
+            }
+          ]
+        }
+      ],
+      "plantBreedersRight": {
+        "status": "Application",
+        "request": {
+          "number": "26-3738",
+          "entryDate": "2026-07-07"
+        },
+        "contacts": {
+          "agent": {
+            "name": "Bovard AG",
+            "address": "Optingenstrasse 16",
+            "postBox": "",
+            "postalCode": "3013",
+            "city": "Bern",
+            "country": "CH"
+          }
+        }
+      },
+      "contacts": {
+        "owners": [
+          {
+            "name": "Flevo Berry Holding B.V.",
+            "address": "Enserweg 23",
+            "postBox": "",
+            "postalCode": "8307 PK",
+            "city": "Ens",
+            "country": "NL"
+          }
+        ],
+        "breeders": [
+          {
+            "name": "Flevo Berry Holding B.V.",
+            "address": "Enserweg 23",
+            "postBox": "",
+            "postalCode": "8307 PK",
+            "city": "Ens",
+            "country": "NL"
+          }
+        ]
+      }
+    },
+    {
       "id": "24c72213-2351-d69c-dfae-0c6c51b6d679",
       "dossierStatus": "InProgress",
       "breedingCountry": "CH",
@@ -48477,11 +48550,11 @@
         },
         "contacts": {
           "agent": {
-            "name": "Swiss-Seedservice",
-            "address": "Route de Portalban 40",
+            "name": "Vossius \u0026 Partner",
+            "address": "Hirschg\u00E4sslein 11",
             "postBox": "",
-            "postalCode": "1567",
-            "city": "Delley",
+            "postalCode": "4010",
+            "city": "Basel",
             "country": "CH"
           }
         }
@@ -49248,11 +49321,11 @@
         },
         "contacts": {
           "agent": {
-            "name": "Swiss-Seedservice",
-            "address": "Route de Portalban 40",
+            "name": "Vossius \u0026 Partner",
+            "address": "Hirschg\u00E4sslein 11",
             "postBox": "",
-            "postalCode": "1567",
-            "city": "Delley",
+            "postalCode": "4010",
+            "city": "Basel",
             "country": "CH"
           }
         }
@@ -52935,11 +53008,11 @@
         },
         "contacts": {
           "agent": {
-            "name": "Swiss-Seedservice",
-            "address": "Route de Portalban 40",
+            "name": "Vossius \u0026 Partner",
+            "address": "Hirschg\u00E4sslein 11",
             "postBox": "",
-            "postalCode": "1567",
-            "city": "Delley",
+            "postalCode": "4010",
+            "city": "Basel",
             "country": "CH"
           }
         }
@@ -53474,6 +53547,74 @@
             "address": "",
             "postBox": "",
             "country": "CH"
+          }
+        ]
+      }
+    },
+    {
+      "id": "39f32dbb-691c-459f-909d-b1065761c1ea",
+      "dossierStatus": "InProgress",
+      "breedersReference": "FRF 2001.1500",
+      "breedingCountry": "IT",
+      "cropCategory": "Fruit and berries",
+      "botanicalInformation": {
+        "family": "Rosaceae",
+        "genus": "Prunus L.",
+        "species": "Prunus persica (L.) Batsch",
+        "upovCode": "PRUNU_PER"
+      },
+      "currentlyRelevantDenomination": {
+        "denomination": "FRF 1500",
+        "status": "Proposed",
+        "validFrom": "2026-07-20"
+      },
+      "denominations": [
+        {
+          "denomination": "FRF 1500",
+          "statusHistory": [
+            {
+              "status": "Proposed",
+              "validFrom": "2026-07-20"
+            }
+          ]
+        }
+      ],
+      "plantBreedersRight": {
+        "status": "None",
+        "request": {
+          "number": "26-3741",
+          "entryDate": "2026-07-20"
+        },
+        "contacts": {
+          "agent": {
+            "name": "H\u00E4berli Fruchtpflanzen AG",
+            "address": "Stocken",
+            "postBox": "",
+            "postalCode": "9315",
+            "city": "Neukirch-Egnach",
+            "country": "CH"
+          }
+        }
+      },
+      "contacts": {
+        "owners": [
+          {
+            "name": "CREA",
+            "address": "Via della Naviecella 2/4",
+            "postBox": "",
+            "postalCode": "00184",
+            "city": "Roma (RM)",
+            "country": "IT"
+          }
+        ],
+        "breeders": [
+          {
+            "name": "CREA",
+            "address": "Via della Naviecella 2/4",
+            "postBox": "",
+            "postalCode": "00184",
+            "city": "Roma (RM)",
+            "country": "IT"
           }
         ]
       }
@@ -66781,6 +66922,81 @@
       }
     },
     {
+      "id": "4a31c5c7-6781-4e56-8e1e-dd2b6d327719",
+      "dossierStatus": "Finalized",
+      "breedersReference": "08TC066.1",
+      "breedingCountry": "CH",
+      "cropCategory": "Agricultural Crops",
+      "botanicalInformation": {
+        "family": "Poaceae",
+        "genus": "xTriticosecale Wittm. ex A. Camus",
+        "upovCode": "TRITL"
+      },
+      "currentlyRelevantDenomination": {
+        "denomination": "Sorra",
+        "status": "Proposed",
+        "validFrom": "2026-07-28"
+      },
+      "denominations": [
+        {
+          "denomination": "Sorra",
+          "statusHistory": [
+            {
+              "status": "Proposed",
+              "validFrom": "2026-07-28"
+            }
+          ]
+        }
+      ],
+      "plantBreedersRight": {
+        "status": "Application",
+        "request": {
+          "number": "26-3743",
+          "entryDate": "2026-07-28"
+        },
+        "contacts": {
+          "agent": {
+            "name": "Getreidez\u00FCchtung Peter Kunz",
+            "address": "Seestrasse 6",
+            "postBox": "",
+            "postalCode": "8714",
+            "city": "Feldbach",
+            "country": "CH"
+          }
+        }
+      },
+      "contacts": {
+        "owners": [
+          {
+            "name": "Agroscope",
+            "address": "Route de Duillier 50",
+            "postBox": "Postfach 1012",
+            "postalCode": "1260",
+            "city": "Nyon",
+            "country": "CH"
+          },
+          {
+            "name": "Getreidez\u00FCchtung Peter Kunz",
+            "address": "Seestrasse 6",
+            "postBox": "",
+            "postalCode": "8714",
+            "city": "Feldbach",
+            "country": "CH"
+          }
+        ],
+        "breeders": [
+          {
+            "name": "Getreidez\u00FCchtung Peter Kunz",
+            "address": "Seestrasse 6",
+            "postBox": "",
+            "postalCode": "8714",
+            "city": "Feldbach",
+            "country": "CH"
+          }
+        ]
+      }
+    },
+    {
       "id": "4a4b1d70-d5bf-3779-bf27-208255459c9d",
       "dossierStatus": "Finalized",
       "breedingCountry": "DE",
@@ -70274,11 +70490,11 @@
         },
         "contacts": {
           "agent": {
-            "name": "Swiss-Seedservice",
-            "address": "Route de Portalban 40",
+            "name": "Vossius \u0026 Partner",
+            "address": "Hirschg\u00E4sslein 11",
             "postBox": "",
-            "postalCode": "1567",
-            "city": "Delley",
+            "postalCode": "4010",
+            "city": "Basel",
             "country": "CH"
           }
         }
@@ -82746,10 +82962,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "15-3006",
           "entryDate": "2015-05-27"
+        },
+        "register": {
+          "number": "26.3272",
+          "grantOfProtection": "2026-07-31",
+          "maxProtectionYears": 30
         },
         "contacts": {
           "agent": {
@@ -89960,10 +90181,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "21-3491",
           "entryDate": "2021-11-12"
+        },
+        "register": {
+          "number": "26.3273",
+          "grantOfProtection": "2026-07-31",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
@@ -94337,6 +94563,98 @@
       }
     },
     {
+      "id": "6a37ef4b-83fb-472d-a540-971ac3308b3f",
+      "dossierStatus": "Finalized",
+      "breedersReference": "P15F032A003",
+      "breedingCountry": "ES",
+      "cropCategory": "Fruit and berries",
+      "botanicalInformation": {
+        "family": "Rosaceae",
+        "genus": "Malus Mill.",
+        "species": "Malus domestica (Suckow) Borkh.",
+        "upovCode": "MALUS_DOM"
+      },
+      "currentlyRelevantDenomination": {
+        "denomination": "HOT03A1",
+        "status": "Proposed",
+        "validFrom": "2026-07-24"
+      },
+      "denominations": [
+        {
+          "denomination": "HOT03A1",
+          "statusHistory": [
+            {
+              "status": "Proposed",
+              "validFrom": "2026-07-24"
+            }
+          ]
+        }
+      ],
+      "plantBreedersRight": {
+        "status": "Application",
+        "request": {
+          "number": "26-3742",
+          "entryDate": "2026-07-27"
+        },
+        "contacts": {
+          "agent": {
+            "name": "Bovard AG",
+            "address": "Optingenstrasse 16",
+            "postBox": "",
+            "postalCode": "3013",
+            "city": "Bern",
+            "country": "CH"
+          }
+        }
+      },
+      "contacts": {
+        "owners": [
+          {
+            "name": "Fruit Futur A.I.E.",
+            "address": "Corregidor Escofet 64",
+            "postBox": "",
+            "postalCode": "25005",
+            "city": "Lleida",
+            "country": "ES"
+          },
+          {
+            "name": "IRTA - Institut de Recerca Tecnologia Agroalimentaries",
+            "address": "Torre Marimon, Caldes de Montbui 08140",
+            "postBox": "",
+            "postalCode": "8007",
+            "city": "Barcelona",
+            "country": "ES"
+          },
+          {
+            "name": "New Zealand Institute",
+            "address": "Tuhiraki, Ellesmere Junction Road 19",
+            "postBox": "",
+            "postalCode": "7608",
+            "city": "Lincoln",
+            "country": "NZ"
+          }
+        ],
+        "breeders": [
+          {
+            "name": "Joan Bonany",
+            "address": "Parc de Garden - Edifici Fruitcentra",
+            "postBox": "",
+            "postalCode": "25003",
+            "city": "Lleida",
+            "country": "ES"
+          },
+          {
+            "name": "Richard Keith Volz",
+            "address": "Cnr Crosses and St George\u0027s Roads",
+            "postBox": "",
+            "postalCode": "4130",
+            "city": "Havelock North",
+            "country": "NZ"
+          }
+        ]
+      }
+    },
+    {
       "id": "6a3dc3ef-a844-642a-1f66-3837707e5936",
       "dossierStatus": "InProgress",
       "cropCategory": "Vegetable Crops",
@@ -95411,11 +95729,11 @@
         },
         "contacts": {
           "agent": {
-            "name": "Swiss-Seedservice",
-            "address": "Route de Portalban 40",
+            "name": "Vossius \u0026 Partner",
+            "address": "Hirschg\u00E4sslein 11",
             "postBox": "",
-            "postalCode": "1567",
-            "city": "Delley",
+            "postalCode": "4010",
+            "city": "Basel",
             "country": "CH"
           }
         }
@@ -100088,10 +100406,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "25-3663",
           "entryDate": "2025-04-10"
+        },
+        "register": {
+          "number": "26.3277",
+          "grantOfProtection": "2026-07-31",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
@@ -107393,11 +107716,11 @@
         },
         "contacts": {
           "agent": {
-            "name": "Swiss-Seedservice",
-            "address": "Route de Portalban 40",
+            "name": "Vossius \u0026 Partner",
+            "address": "Hirschg\u00E4sslein 11",
             "postBox": "",
-            "postalCode": "1567",
-            "city": "Delley",
+            "postalCode": "4010",
+            "city": "Basel",
             "country": "CH"
           }
         }
@@ -116112,11 +116435,11 @@
         },
         "contacts": {
           "agent": {
-            "name": "Swiss-Seedservice",
-            "address": "Route de Portalban 40",
+            "name": "Vossius \u0026 Partner",
+            "address": "Hirschg\u00E4sslein 11",
             "postBox": "",
-            "postalCode": "1567",
-            "city": "Delley",
+            "postalCode": "4010",
+            "city": "Basel",
             "country": "CH"
           }
         }
@@ -119108,11 +119431,11 @@
         },
         "contacts": {
           "agent": {
-            "name": "Swiss-Seedservice",
-            "address": "Route de Portalban 40",
+            "name": "Vossius \u0026 Partner",
+            "address": "Hirschg\u00E4sslein 11",
             "postBox": "",
-            "postalCode": "1567",
-            "city": "Delley",
+            "postalCode": "4010",
+            "city": "Basel",
             "country": "CH"
           }
         }
@@ -120665,11 +120988,11 @@
         },
         "contacts": {
           "agent": {
-            "name": "Swiss-Seedservice",
-            "address": "Route de Portalban 40",
+            "name": "Vossius \u0026 Partner",
+            "address": "Hirschg\u00E4sslein 11",
             "postBox": "",
-            "postalCode": "1567",
-            "city": "Delley",
+            "postalCode": "4010",
+            "city": "Basel",
             "country": "CH"
           }
         }
@@ -127597,10 +127920,10 @@
           },
           {
             "name": "IRTA - Institut de Recerca Tecnologia Agroalimentaries",
-            "address": "Carretera C-50",
+            "address": "Torre Marimon, Caldes de Montbui 08140",
             "postBox": "",
-            "postalCode": "08140",
-            "city": "Caldes de Montbui",
+            "postalCode": "8007",
+            "city": "Barcelona",
             "country": "ES"
           },
           {
@@ -127615,7 +127938,7 @@
         "breeders": [
           {
             "name": "Joan Bonany",
-            "address": "",
+            "address": "Parc de Garden - Edifici Fruitcentra",
             "postBox": "",
             "postalCode": "25003",
             "city": "Lleida",
@@ -131020,11 +131343,11 @@
         },
         "contacts": {
           "agent": {
-            "name": "Swiss-Seedservice",
-            "address": "Route de Portalban 40",
+            "name": "Vossius \u0026 Partner",
+            "address": "Hirschg\u00E4sslein 11",
             "postBox": "",
-            "postalCode": "1567",
-            "city": "Delley",
+            "postalCode": "4010",
+            "city": "Basel",
             "country": "CH"
           }
         }
@@ -131643,10 +131966,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "25-3655",
           "entryDate": "2025-02-12"
+        },
+        "register": {
+          "number": "26.3276",
+          "grantOfProtection": "2026-07-31",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
@@ -134463,11 +134791,11 @@
         },
         "contacts": {
           "agent": {
-            "name": "Swiss-Seedservice",
-            "address": "Route de Portalban 40",
+            "name": "Vossius \u0026 Partner",
+            "address": "Hirschg\u00E4sslein 11",
             "postBox": "",
-            "postalCode": "1567",
-            "city": "Delley",
+            "postalCode": "4010",
+            "city": "Basel",
             "country": "CH"
           }
         }
@@ -141884,10 +142212,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "24-3652",
           "entryDate": "2024-12-31"
+        },
+        "register": {
+          "number": "26.3275",
+          "grantOfProtection": "2026-07-31",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
@@ -143057,11 +143390,11 @@
         },
         "contacts": {
           "agent": {
-            "name": "Swiss-Seedservice",
-            "address": "Route de Portalban 40",
+            "name": "Vossius \u0026 Partner",
+            "address": "Hirschg\u00E4sslein 11",
             "postBox": "",
-            "postalCode": "1567",
-            "city": "Delley",
+            "postalCode": "4010",
+            "city": "Basel",
             "country": "CH"
           }
         }
@@ -149343,10 +149676,10 @@
         "owners": [
           {
             "name": "IRTA - Institut de Recerca Tecnologia Agroalimentaries",
-            "address": "Carretera C-50",
+            "address": "Torre Marimon, Caldes de Montbui 08140",
             "postBox": "",
-            "postalCode": "08140",
-            "city": "Caldes de Montbui",
+            "postalCode": "8007",
+            "city": "Barcelona",
             "country": "ES"
           },
           {
@@ -149369,10 +149702,10 @@
           },
           {
             "name": "IRTA - Institut de Recerca Tecnologia Agroalimentaries",
-            "address": "Carretera C-50",
+            "address": "Torre Marimon, Caldes de Montbui 08140",
             "postBox": "",
-            "postalCode": "08140",
-            "city": "Caldes de Montbui",
+            "postalCode": "8007",
+            "city": "Barcelona",
             "country": "ES"
           }
         ]
@@ -162211,19 +162544,19 @@
       "contacts": {
         "owners": [
           {
-            "name": "FruitFutur A.I.E.",
-            "address": "Carretera Palau de Angelesola",
+            "name": "Fruit Futur A.I.E.",
+            "address": "Carretera Palau De Anglesola, 0 Km 1, Mollerussa",
             "postBox": "",
-            "postalCode": "0 Km 1",
-            "city": "Mollerussa",
+            "postalCode": "25230",
+            "city": "Lleida",
             "country": "ES"
           },
           {
             "name": "IRTA - Institut de Recerca Tecnologia Agroalimentaries",
-            "address": "Carretera C-50",
+            "address": "Torre Marimon, Caldes de Montbui 08140",
             "postBox": "",
-            "postalCode": "08140",
-            "city": "Caldes de Montbui",
+            "postalCode": "8007",
+            "city": "Barcelona",
             "country": "ES"
           },
           {
@@ -162496,6 +162829,72 @@
             "postalCode": "WV7 3HB",
             "city": "Wolverhampton",
             "country": "GB"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b3d32238-f0d5-42a4-b920-e40270af43ac",
+      "dossierStatus": "Finalized",
+      "cropCategory": "Fruit and berries",
+      "botanicalInformation": {
+        "family": "Rosaceae",
+        "genus": "Prunus L.",
+        "species": "Prunus avium (L.) L.",
+        "upovCode": "PRUNU_AVI"
+      },
+      "currentlyRelevantDenomination": {
+        "denomination": "IVU 533",
+        "status": "Proposed",
+        "validFrom": "2026-07-27"
+      },
+      "denominations": [
+        {
+          "denomination": "IVU 533",
+          "statusHistory": [
+            {
+              "status": "Proposed",
+              "validFrom": "2026-07-27"
+            }
+          ]
+        }
+      ],
+      "plantBreedersRight": {
+        "status": "Application",
+        "request": {
+          "number": "26-3739",
+          "entryDate": "2026-07-16"
+        },
+        "contacts": {
+          "agent": {
+            "name": "Baker McKenzie Switzerland AG",
+            "address": "Holbeinstrasse 30",
+            "postBox": "",
+            "postalCode": "8034",
+            "city": "Z\u00FCrich",
+            "country": "CH"
+          }
+        }
+      },
+      "contacts": {
+        "owners": [
+          {
+            "name": "Comercial ALFA Ltda.",
+            "address": "Longitudinal Sur, Km 174,",
+            "postBox": "",
+            "postalCode": "3340000",
+            "city": "Teno, Curico",
+            "country": "CL"
+          }
+        ],
+        "breeders": [
+          {
+            "name": "Marvin Lot Nies",
+            "address": "9206 E Kettleman Lane",
+            "postBox": "",
+            "postalCode": "95240",
+            "city": "Lodi, California",
+            "country": "US"
           }
         ]
       }
@@ -189562,10 +189961,10 @@
         "owners": [
           {
             "name": "IRTA - Institut de Recerca Tecnologia Agroalimentaries",
-            "address": "Carretera C-50",
+            "address": "Torre Marimon, Caldes de Montbui 08140",
             "postBox": "",
-            "postalCode": "08140",
-            "city": "Caldes de Montbui",
+            "postalCode": "8007",
+            "city": "Barcelona",
             "country": "ES"
           },
           {
@@ -189588,10 +189987,10 @@
           },
           {
             "name": "IRTA - Institut de Recerca Tecnologia Agroalimentaries",
-            "address": "Carretera C-50",
+            "address": "Torre Marimon, Caldes de Montbui 08140",
             "postBox": "",
-            "postalCode": "08140",
-            "city": "Caldes de Montbui",
+            "postalCode": "8007",
+            "city": "Barcelona",
             "country": "ES"
           }
         ]
@@ -203052,11 +203451,11 @@
         },
         "contacts": {
           "agent": {
-            "name": "Swiss-Seedservice",
-            "address": "Route de Portalban 40",
+            "name": "Vossius \u0026 Partner",
+            "address": "Hirschg\u00E4sslein 11",
             "postBox": "",
-            "postalCode": "1567",
-            "city": "Delley",
+            "postalCode": "4010",
+            "city": "Basel",
             "country": "CH"
           }
         }
@@ -203735,7 +204134,7 @@
     },
     {
       "id": "e3195c08-9223-4dfd-a406-ed7ca51fb763",
-      "dossierStatus": "InProgress",
+      "dossierStatus": "Finalized",
       "breedersReference": "abb 138",
       "breedingCountry": "NL",
       "tradeNames": [
@@ -203751,7 +204150,7 @@
       "currentlyRelevantDenomination": {
         "denomination": "ABB 138",
         "status": "Proposed",
-        "validFrom": "2026-06-24"
+        "validFrom": "2026-07-16"
       },
       "denominations": [
         {
@@ -203759,13 +204158,13 @@
           "statusHistory": [
             {
               "status": "Proposed",
-              "validFrom": "2026-06-24"
+              "validFrom": "2026-07-16"
             }
           ]
         }
       ],
       "plantBreedersRight": {
-        "status": "None",
+        "status": "Application",
         "request": {
           "number": "26-3737",
           "entryDate": "2026-06-24"
@@ -210441,6 +210840,74 @@
       }
     },
     {
+      "id": "ebcdf124-14bd-48d2-883c-4450ddc86a39",
+      "dossierStatus": "Finalized",
+      "breedersReference": "EWTZ114.14",
+      "breedingCountry": "CH",
+      "cropCategory": "Agricultural Crops",
+      "botanicalInformation": {
+        "family": "Poaceae",
+        "genus": "Triticum L.",
+        "species": "Triticum aestivum L.",
+        "upovCode": "TRITI_AES"
+      },
+      "currentlyRelevantDenomination": {
+        "denomination": "Merun",
+        "status": "Proposed",
+        "validFrom": "2026-07-24"
+      },
+      "denominations": [
+        {
+          "denomination": "Merun",
+          "statusHistory": [
+            {
+              "status": "Proposed",
+              "validFrom": "2026-07-24"
+            }
+          ]
+        }
+      ],
+      "plantBreedersRight": {
+        "status": "Application",
+        "request": {
+          "number": "26-3740",
+          "entryDate": "2026-07-15"
+        },
+        "contacts": {
+          "agent": {
+            "name": "Getreidez\u00FCchtung Peter Kunz",
+            "address": "Seestrasse 6",
+            "postBox": "",
+            "postalCode": "8714",
+            "city": "Feldbach",
+            "country": "CH"
+          }
+        }
+      },
+      "contacts": {
+        "owners": [
+          {
+            "name": "Getreidez\u00FCchtung Peter Kunz",
+            "address": "Seestrasse 6",
+            "postBox": "",
+            "postalCode": "8714",
+            "city": "Feldbach",
+            "country": "CH"
+          }
+        ],
+        "breeders": [
+          {
+            "name": "Getreidez\u00FCchtung Peter Kunz",
+            "address": "Seestrasse 6",
+            "postBox": "",
+            "postalCode": "8714",
+            "city": "Feldbach",
+            "country": "CH"
+          }
+        ]
+      }
+    },
+    {
       "id": "ec018160-7518-1236-8f08-128481774e11",
       "dossierStatus": "InProgress",
       "breedersReference": "PA 7221-1",
@@ -212907,7 +213374,7 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Rejected",
         "request": {
           "number": "24-3641",
           "entryDate": "2024-08-23"

@@ -1533,10 +1533,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "26-3725",
           "entryDate": "2026-03-24"
+        },
+        "register": {
+          "number": "26.3293",
+          "grantOfProtection": "2026-08-31",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
@@ -25174,10 +25179,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "22-3518",
           "entryDate": "2022-05-05"
+        },
+        "register": {
+          "number": "26.3279",
+          "grantOfProtection": "2026-08-31",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
@@ -28695,13 +28705,17 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "KSG 19 A",
-        "status": "Proposed",
+        "status": "Published",
         "validFrom": "2026-06-08"
       },
       "denominations": [
         {
           "denomination": "KSG 19 A",
           "statusHistory": [
+            {
+              "status": "Published",
+              "validFrom": "2026-06-08"
+            },
             {
               "status": "Proposed",
               "validFrom": "2026-06-08"
@@ -35477,13 +35491,17 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "Ferosa",
-        "status": "Proposed",
+        "status": "Published",
         "validFrom": "2026-07-13"
       },
       "denominations": [
         {
           "denomination": "Ferosa",
           "statusHistory": [
+            {
+              "status": "Published",
+              "validFrom": "2026-07-13"
+            },
             {
               "status": "Proposed",
               "validFrom": "2026-07-13"
@@ -44952,10 +44970,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "26-3718",
           "entryDate": "2026-03-19"
+        },
+        "register": {
+          "number": "26.3286",
+          "grantOfProtection": "2026-08-31",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
@@ -45956,10 +45979,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "22-3519",
           "entryDate": "2022-05-05"
+        },
+        "register": {
+          "number": "26.3280",
+          "grantOfProtection": "2026-08-31",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
@@ -51223,10 +51251,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "26-3729",
           "entryDate": "2026-03-24"
+        },
+        "register": {
+          "number": "26.3297",
+          "grantOfProtection": "2026-08-31",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
@@ -51633,10 +51666,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "26-3719",
           "entryDate": "2026-03-19"
+        },
+        "register": {
+          "number": "26.3287",
+          "grantOfProtection": "2026-08-31",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
@@ -53553,7 +53591,7 @@
     },
     {
       "id": "39f32dbb-691c-459f-909d-b1065761c1ea",
-      "dossierStatus": "InProgress",
+      "dossierStatus": "Finalized",
       "breedersReference": "FRF 2001.1500",
       "breedingCountry": "IT",
       "cropCategory": "Fruit and berries",
@@ -53566,7 +53604,7 @@
       "currentlyRelevantDenomination": {
         "denomination": "FRF 1500",
         "status": "Proposed",
-        "validFrom": "2026-07-20"
+        "validFrom": "2026-08-10"
       },
       "denominations": [
         {
@@ -53574,13 +53612,13 @@
           "statusHistory": [
             {
               "status": "Proposed",
-              "validFrom": "2026-07-20"
+              "validFrom": "2026-08-10"
             }
           ]
         }
       ],
       "plantBreedersRight": {
-        "status": "None",
+        "status": "Application",
         "request": {
           "number": "26-3741",
           "entryDate": "2026-07-20"
@@ -63140,10 +63178,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "23-3606",
           "entryDate": "2023-11-13"
+        },
+        "register": {
+          "number": "26.3282",
+          "grantOfProtection": "2026-08-31",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
@@ -66934,13 +66977,17 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "Sorra",
-        "status": "Proposed",
+        "status": "Published",
         "validFrom": "2026-07-28"
       },
       "denominations": [
         {
           "denomination": "Sorra",
           "statusHistory": [
+            {
+              "status": "Published",
+              "validFrom": "2026-07-28"
+            },
             {
               "status": "Proposed",
               "validFrom": "2026-07-28"
@@ -79350,10 +79397,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "26-3728",
           "entryDate": "2026-03-24"
+        },
+        "register": {
+          "number": "26.3296",
+          "grantOfProtection": "2026-08-31",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
@@ -94576,13 +94628,17 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "HOT03A1",
-        "status": "Proposed",
+        "status": "Published",
         "validFrom": "2026-07-24"
       },
       "denominations": [
         {
           "denomination": "HOT03A1",
           "statusHistory": [
+            {
+              "status": "Published",
+              "validFrom": "2026-07-24"
+            },
             {
               "status": "Proposed",
               "validFrom": "2026-07-24"
@@ -121217,10 +121273,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "26-3727",
           "entryDate": "2026-03-24"
+        },
+        "register": {
+          "number": "26.3295",
+          "grantOfProtection": "2026-08-31",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
@@ -135308,10 +135369,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "26-3726",
           "entryDate": "2026-03-24"
+        },
+        "register": {
+          "number": "26.3294",
+          "grantOfProtection": "2026-08-31",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
@@ -140533,13 +140599,17 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "Rosalolam",
-        "status": "Proposed",
+        "status": "Published",
         "validFrom": "2026-07-01"
       },
       "denominations": [
         {
           "denomination": "Rosalolam",
           "statusHistory": [
+            {
+              "status": "Published",
+              "validFrom": "2026-07-01"
+            },
             {
               "status": "Proposed",
               "validFrom": "2026-07-01"
@@ -145501,10 +145571,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "26-3716",
           "entryDate": "2026-03-18"
+        },
+        "register": {
+          "number": "26.3285",
+          "grantOfProtection": "2026-08-31",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
@@ -146570,10 +146645,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "26-3715",
           "entryDate": "2026-03-18"
+        },
+        "register": {
+          "number": "26.3284",
+          "grantOfProtection": "2026-08-31",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
@@ -150134,10 +150214,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "23-3605",
           "entryDate": "2023-11-13"
+        },
+        "register": {
+          "number": "26.3281",
+          "grantOfProtection": "2026-08-31",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
@@ -157505,10 +157590,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "26-3724",
           "entryDate": "2026-03-23"
+        },
+        "register": {
+          "number": "26.3292",
+          "grantOfProtection": "2026-08-31",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
@@ -159446,10 +159536,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "22-3517",
           "entryDate": "2022-05-03"
+        },
+        "register": {
+          "number": "26.3278",
+          "grantOfProtection": "2026-08-31",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
@@ -162845,13 +162940,17 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "IVU 533",
-        "status": "Proposed",
+        "status": "Published",
         "validFrom": "2026-07-27"
       },
       "denominations": [
         {
           "denomination": "IVU 533",
           "statusHistory": [
+            {
+              "status": "Published",
+              "validFrom": "2026-07-27"
+            },
             {
               "status": "Proposed",
               "validFrom": "2026-07-27"
@@ -177519,10 +177618,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "26-3722",
           "entryDate": "2026-03-23"
+        },
+        "register": {
+          "number": "26.3290",
+          "grantOfProtection": "2026-08-31",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
@@ -179373,10 +179477,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "26-3720",
           "entryDate": "2026-03-20"
+        },
+        "register": {
+          "number": "26.3288",
+          "grantOfProtection": "2026-08-31",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
@@ -196277,10 +196386,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "26-3711",
           "entryDate": "2026-03-10"
+        },
+        "register": {
+          "number": "26.3283",
+          "grantOfProtection": "2026-08-31",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
@@ -196749,10 +196863,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "26-3721",
           "entryDate": "2026-03-20"
+        },
+        "register": {
+          "number": "26.3289",
+          "grantOfProtection": "2026-08-31",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
@@ -201112,13 +201231,17 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "UEB 55861",
-        "status": "Proposed",
+        "status": "Published",
         "validFrom": "2026-07-01"
       },
       "denominations": [
         {
           "denomination": "UEB 55861",
           "statusHistory": [
+            {
+              "status": "Published",
+              "validFrom": "2026-07-01"
+            },
             {
               "status": "Proposed",
               "validFrom": "2026-07-01"
@@ -204149,13 +204272,17 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "ABB 138",
-        "status": "Proposed",
+        "status": "Published",
         "validFrom": "2026-07-16"
       },
       "denominations": [
         {
           "denomination": "ABB 138",
           "statusHistory": [
+            {
+              "status": "Published",
+              "validFrom": "2026-07-16"
+            },
             {
               "status": "Proposed",
               "validFrom": "2026-07-16"
@@ -210853,13 +210980,17 @@
       },
       "currentlyRelevantDenomination": {
         "denomination": "Merun",
-        "status": "Proposed",
+        "status": "Published",
         "validFrom": "2026-07-24"
       },
       "denominations": [
         {
           "denomination": "Merun",
           "statusHistory": [
+            {
+              "status": "Published",
+              "validFrom": "2026-07-24"
+            },
             {
               "status": "Proposed",
               "validFrom": "2026-07-24"
@@ -223513,10 +223644,15 @@
         }
       ],
       "plantBreedersRight": {
-        "status": "Application",
+        "status": "Registered",
         "request": {
           "number": "26-3723",
           "entryDate": "2026-03-23"
+        },
+        "register": {
+          "number": "26.3291",
+          "grantOfProtection": "2026-08-31",
+          "maxProtectionYears": 25
         },
         "contacts": {
           "agent": {
